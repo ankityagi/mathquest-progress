@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-03T22-29-19-959Z-3877",
+ "player": "p1",
+ "topic": "multiply",
+ "level": 1,
+ "levelTitle": "Times Tens",
+ "startedAt": "2026-11-03T22:27:57.425Z",
+ "endedAt": "2026-11-03T22:29:19.959Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 79,
+ "questions": [
+  {
+   "n": 1,
+   "type": "# × # = ?",
+   "prompt": "4 × 90 = ?",
+   "answer": "360",
+   "given": "360",
+   "correct": true,
+   "hint": false,
+   "seconds": 15.1
+  },
+  {
+   "n": 2,
+   "type": "# × # = ?",
+   "prompt": "500 × 9 = ?",
+   "answer": "4,500",
+   "given": "4500",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.4
+  },
+  {
+   "n": 3,
+   "type": "# × # = ?",
+   "prompt": "80 × 30 = ?",
+   "answer": "2,400",
+   "given": "240",
+   "correct": false,
+   "hint": false,
+   "seconds": 9.3
+  },
+  {
+   "n": 4,
+   "type": "A box holds # crayons. How many crayons are in # boxes?",
+   "prompt": "A box holds 30 crayons. How many crayons are in 9 boxes?",
+   "answer": "270 crayons",
+   "given": "270",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.2
+  },
+  {
+   "n": 5,
+   "type": "# × # = ?",
+   "prompt": "5 × 60 = ?",
+   "answer": "300",
+   "given": "300",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.6
+  },
+  {
+   "n": 6,
+   "type": "A box holds # crayons. How many crayons are in # boxes?",
+   "prompt": "A box holds 50 crayons. How many crayons are in 8 boxes?",
+   "answer": "400 crayons",
+   "given": "400",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "n": 7,
+   "type": "# × # = ?",
+   "prompt": "800 × 9 = ?",
+   "answer": "7,200",
+   "given": "7200",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.2
+  },
+  {
+   "n": 8,
+   "type": "# × # = ?",
+   "prompt": "60 × 70 = ?",
+   "answer": "4,200",
+   "given": "4200",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.5
+  },
+  {
+   "n": 9,
+   "type": "A box holds # crayons. How many crayons are in # boxes?",
+   "prompt": "A box holds 70 crayons. How many crayons are in 8 boxes?",
+   "answer": "560 crayons",
+   "given": "560",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.4
+  },
+  {
+   "n": 10,
+   "type": "# × # = ?",
+   "prompt": "200 × 6 = ?",
+   "answer": "1,200",
+   "given": "1200",
+   "correct": true,
+   "hint": false,
+   "seconds": 5
+  }
+ ]
+}
