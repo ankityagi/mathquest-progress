@@ -1,0 +1,58 @@
+{
+ "v": 1,
+ "id": "2026-11-18T23-18-44-847Z-d4lk",
+ "player": "p1",
+ "topic": "patterns",
+ "level": 1,
+ "levelTitle": "What Comes Next?",
+ "startedAt": "2026-11-18T23:15:46.975Z",
+ "endedAt": "2026-11-18T23:18:44.847Z",
+ "completed": false,
+ "correct": 2,
+ "total": 10,
+ "stars": 0,
+ "hints": 1,
+ "seconds": 137,
+ "questions": [
+  {
+   "n": 1,
+   "type": "What number comes next? # ?",
+   "prompt": "What number comes next? 687, 812, 937, 1,062, ?",
+   "answer": "1,187",
+   "given": "130",
+   "correct": false,
+   "hint": true,
+   "seconds": 45
+  },
+  {
+   "n": 2,
+   "type": "What number comes next? # ?",
+   "prompt": "What number comes next? 330, 290, 250, 210, ?",
+   "answer": "170",
+   "given": "170",
+   "correct": true,
+   "hint": false,
+   "seconds": 26.3
+  },
+  {
+   "n": 3,
+   "type": "What number comes next? # ?",
+   "prompt": "What number comes next? 12, 21, 30, 39, ?",
+   "answer": "48",
+   "given": "48",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.6
+  },
+  {
+   "n": 4,
+   "type": "What number comes next? # ?",
+   "prompt": "What number comes next? 459, 609, 759, 909, ?",
+   "answer": "1,059",
+   "given": "1069",
+   "correct": false,
+   "hint": false,
+   "seconds": 53.6
+  }
+ ]
+}
