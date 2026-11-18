@@ -1,0 +1,38 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-41-53-484Z-lzrj",
+ "player": "p1",
+ "topic": "angles",
+ "level": 2,
+ "levelTitle": "Lines, Rays & Segments",
+ "startedAt": "2026-11-18T01:39:30.342Z",
+ "endedAt": "2026-11-18T01:41:53.484Z",
+ "completed": false,
+ "correct": 1,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 139,
+ "questions": [
+  {
+   "n": 1,
+   "type": "What is this called?",
+   "prompt": "What is this called?",
+   "answer": "Line AB",
+   "given": "Line AB",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.7
+  },
+  {
+   "n": 2,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Intersecting (not perpendicular)",
+   "given": "Perpendicular",
+   "correct": false,
+   "hint": false,
+   "seconds": 134.9
+  }
+ ]
+}
