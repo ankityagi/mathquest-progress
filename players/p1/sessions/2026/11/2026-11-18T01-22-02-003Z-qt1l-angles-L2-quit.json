@@ -1,0 +1,58 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-22-02-003Z-qt1l",
+ "player": "p1",
+ "topic": "angles",
+ "level": 2,
+ "levelTitle": "Lines, Rays & Segments",
+ "startedAt": "2026-11-18T01:20:59.812Z",
+ "endedAt": "2026-11-18T01:22:02.003Z",
+ "completed": false,
+ "correct": 1,
+ "total": 10,
+ "stars": 0,
+ "hints": 1,
+ "seconds": 51,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many pairs of parallel line segments are in a capital letter H?",
+   "prompt": "How many pairs of parallel line segments are in a capital letter H?",
+   "answer": "1 pairs",
+   "given": "1",
+   "correct": true,
+   "hint": false,
+   "seconds": 20.2
+  },
+  {
+   "n": 2,
+   "type": "Which word fits the letter X?",
+   "prompt": "Which word fits the letter X?",
+   "answer": "Intersecting (not perpendicular)",
+   "given": "Perpendicular",
+   "correct": false,
+   "hint": false,
+   "seconds": 12.4
+  },
+  {
+   "n": 3,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Perpendicular",
+   "given": "Intersecting (not perpendicular)",
+   "correct": false,
+   "hint": false,
+   "seconds": 12.5
+  },
+  {
+   "n": 4,
+   "type": "What is this called?",
+   "prompt": "What is this called?",
+   "answer": "Line AB",
+   "given": "Line segment AB",
+   "correct": false,
+   "hint": true,
+   "seconds": 6.2
+  }
+ ]
+}
