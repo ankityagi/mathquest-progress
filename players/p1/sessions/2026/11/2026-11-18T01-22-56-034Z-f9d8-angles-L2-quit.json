@@ -1,0 +1,78 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-22-56-034Z-f9d8",
+ "player": "p1",
+ "topic": "angles",
+ "level": 2,
+ "levelTitle": "Lines, Rays & Segments",
+ "startedAt": "2026-11-18T01:22:09.340Z",
+ "endedAt": "2026-11-18T01:22:56.034Z",
+ "completed": false,
+ "correct": 3,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 37,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many pairs of parallel line segments are in a capital letter T?",
+   "prompt": "How many pairs of parallel line segments are in a capital letter T?",
+   "answer": "0 pairs",
+   "given": "0",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.7
+  },
+  {
+   "n": 2,
+   "type": "What is this called?",
+   "prompt": "What is this called?",
+   "answer": "Line segment AB",
+   "given": "Line AB",
+   "correct": false,
+   "hint": false,
+   "seconds": 3.7
+  },
+  {
+   "n": 3,
+   "type": "Which word fits the letter X?",
+   "prompt": "Which word fits the letter X?",
+   "answer": "Intersecting (not perpendicular)",
+   "given": "Intersecting (not perpendicular)",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "n": 4,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Parallel",
+   "given": "Parallel",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "n": 5,
+   "type": "Which word fits the two hands of a clock at #:#?",
+   "prompt": "Which word fits the two hands of a clock at 3:00?",
+   "answer": "Perpendicular",
+   "given": "Parallel",
+   "correct": false,
+   "hint": false,
+   "seconds": 9.4
+  },
+  {
+   "n": 6,
+   "type": "How many pairs of parallel line segments are in a capital letter Z?",
+   "prompt": "How many pairs of parallel line segments are in a capital letter Z?",
+   "answer": "1 pairs",
+   "given": "0",
+   "correct": false,
+   "hint": false,
+   "seconds": 6.7
+  }
+ ]
+}
