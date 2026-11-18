@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-44-25-360Z-3lvm",
+ "player": "p1",
+ "topic": "angles",
+ "level": 3,
+ "levelTitle": "Turns & Clocks",
+ "startedAt": "2026-11-18T01:43:11.354Z",
+ "endedAt": "2026-11-18T01:44:25.360Z",
+ "completed": false,
+ "correct": 1,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 57,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Viraj faces north. He turns # quarter turn clockwise. How many degrees did he turn?",
+   "prompt": "Viraj faces north. He turns 1 quarter turn clockwise. How many degrees did he turn?",
+   "answer": "90 °",
+   "given": "90",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.1
+  },
+  {
+   "n": 2,
+   "type": "A pizza is cut into # equal slices from the centre. What angle is each slice?",
+   "prompt": "A pizza is cut into 12 equal slices from the centre. What angle is each slice?",
+   "answer": "30 °",
+   "given": "90",
+   "correct": false,
+   "hint": false,
+   "seconds": 13.1
+  },
+  {
+   "n": 3,
+   "type": "What is the angle between the clock hands at #:#?",
+   "prompt": "What is the angle between the clock hands at 5:00?",
+   "answer": "150 °",
+   "given": "100",
+   "correct": false,
+   "hint": false,
+   "seconds": 30.1
+  }
+ ]
+}
