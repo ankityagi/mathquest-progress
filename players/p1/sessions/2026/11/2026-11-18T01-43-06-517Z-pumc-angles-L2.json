@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-43-06-517Z-pumc",
+ "player": "p1",
+ "topic": "angles",
+ "level": 2,
+ "levelTitle": "Lines, Rays & Segments",
+ "startedAt": "2026-11-18T01:42:11.492Z",
+ "endedAt": "2026-11-18T01:43:06.517Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 42,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Which word fits the corner where a wall meets the floor?",
+   "prompt": "Which word fits the corner where a wall meets the floor?",
+   "answer": "Perpendicular",
+   "given": "Perpendicular",
+   "correct": true,
+   "hint": false,
+   "seconds": 5
+  },
+  {
+   "n": 2,
+   "type": "What is this called?",
+   "prompt": "What is this called?",
+   "answer": "Ray AB",
+   "given": "Ray AB",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "n": 3,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Intersecting (not perpendicular)",
+   "given": "Intersecting (not perpendicular)",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "n": 4,
+   "type": "How many pairs of parallel line segments are in a capital letter F?",
+   "prompt": "How many pairs of parallel line segments are in a capital letter F?",
+   "answer": "1 pairs",
+   "given": "1",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.4
+  },
+  {
+   "n": 5,
+   "type": "How many pairs of parallel line segments are in a capital letter Z?",
+   "prompt": "How many pairs of parallel line segments are in a capital letter Z?",
+   "answer": "1 pairs",
+   "given": "1",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.6
+  },
+  {
+   "n": 6,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Parallel",
+   "given": "Parallel",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "n": 7,
+   "type": "Which word fits the edges of a ruler?",
+   "prompt": "Which word fits the edges of a ruler?",
+   "answer": "Parallel",
+   "given": "Parallel",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.6
+  },
+  {
+   "n": 8,
+   "type": "What is this called?",
+   "prompt": "What is this called?",
+   "answer": "Line segment AB",
+   "given": "Line AB",
+   "correct": false,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "n": 9,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Intersecting (not perpendicular)",
+   "given": "Intersecting (not perpendicular)",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.5
+  },
+  {
+   "n": 10,
+   "type": "Which word fits a plus sign +?",
+   "prompt": "Which word fits a plus sign +?",
+   "answer": "Perpendicular",
+   "given": "Perpendicular",
+   "correct": true,
+   "hint": false,
+   "seconds": 7
+  }
+ ]
+}
