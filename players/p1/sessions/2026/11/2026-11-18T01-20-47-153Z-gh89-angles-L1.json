@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-20-47-153Z-gh89",
+ "player": "p1",
+ "topic": "angles",
+ "level": 1,
+ "levelTitle": "Angle Types",
+ "startedAt": "2026-11-18T01:19:35.571Z",
+ "endedAt": "2026-11-18T01:20:47.153Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 50,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Angle A is #°, Angle B is #° and Angle C is #°. Which one is acute?",
+   "prompt": "Angle A is 90°, Angle B is 35° and Angle C is 120°. Which one is acute?",
+   "answer": "Angle B",
+   "given": "Angle B",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.6
+  },
+  {
+   "n": 2,
+   "type": "Is #° acute or obtuse?",
+   "prompt": "Is 125° acute or obtuse?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "n": 3,
+   "type": "An angle measures #°. What kind of angle is it?",
+   "prompt": "An angle measures 100°. What kind of angle is it?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "n": 4,
+   "type": "What kind of angle is this?",
+   "prompt": "What kind of angle is this?",
+   "answer": "Straight",
+   "given": "Straight",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.6
+  },
+  {
+   "n": 5,
+   "type": "Angle A is #°, Angle B is #° and Angle C is #°. Which one is obtuse?",
+   "prompt": "Angle A is 20°, Angle B is 145° and Angle C is 90°. Which one is obtuse?",
+   "answer": "Angle B",
+   "given": "Angle B",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.8
+  },
+  {
+   "n": 6,
+   "type": "An angle measures #°. What kind of angle is it?",
+   "prompt": "An angle measures 160°. What kind of angle is it?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.1
+  },
+  {
+   "n": 7,
+   "type": "Is #° acute or obtuse?",
+   "prompt": "Is 165° acute or obtuse?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.5
+  },
+  {
+   "n": 8,
+   "type": "What kind of angle is this?",
+   "prompt": "What kind of angle is this?",
+   "answer": "Straight",
+   "given": "Straight",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "n": 9,
+   "type": "Angle A is #°, Angle B is #° and Angle C is #°. Which one is acute?",
+   "prompt": "Angle A is 140°, Angle B is 90° and Angle C is 25°. Which one is acute?",
+   "answer": "Angle C",
+   "given": "Angle C",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "n": 10,
+   "type": "What kind of angle is this?",
+   "prompt": "What kind of angle is this?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  }
+ ]
+}
