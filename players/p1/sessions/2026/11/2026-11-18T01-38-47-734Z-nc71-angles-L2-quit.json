@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-38-47-734Z-nc71",
+ "player": "p1",
+ "topic": "angles",
+ "level": 2,
+ "levelTitle": "Lines, Rays & Segments",
+ "startedAt": "2026-11-18T01:34:07.151Z",
+ "endedAt": "2026-11-18T01:38:47.734Z",
+ "completed": false,
+ "correct": 0,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 272,
+ "questions": [
+  {
+   "n": 1,
+   "type": "What is this called?",
+   "prompt": "What is this called?",
+   "answer": "Line AB",
+   "given": "Line segment AB",
+   "correct": false,
+   "hint": false,
+   "seconds": 257.2
+  },
+  {
+   "n": 2,
+   "type": "Which word fits the corner where a wall meets the floor?",
+   "prompt": "Which word fits the corner where a wall meets the floor?",
+   "answer": "Perpendicular",
+   "given": "Intersecting (not perpendicular)",
+   "correct": false,
+   "hint": false,
+   "seconds": 10.3
+  },
+  {
+   "n": 3,
+   "type": "How are these two lines related?",
+   "prompt": "How are these two lines related?",
+   "answer": "Perpendicular",
+   "given": "Intersecting (not perpendicular)",
+   "correct": false,
+   "hint": false,
+   "seconds": 4.2
+  }
+ ]
+}
