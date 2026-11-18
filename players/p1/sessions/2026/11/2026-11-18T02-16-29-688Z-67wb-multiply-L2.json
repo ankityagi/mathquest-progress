@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-18T02-16-29-688Z-67wb",
+ "player": "p1",
+ "topic": "multiply",
+ "level": 2,
+ "levelTitle": "2-Digit × 1-Digit",
+ "startedAt": "2026-11-18T02:12:11.958Z",
+ "endedAt": "2026-11-18T02:16:29.688Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 247,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Which is equal to # × #?",
+   "prompt": "Which is equal to 31 × 9?",
+   "answer": "(30 × 9) + (1 × 9)",
+   "given": "(30 × 9) + (1 × 9)",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "n": 2,
+   "type": "# × # = ?",
+   "prompt": "27 × 8 = ?",
+   "answer": "216",
+   "given": "216",
+   "correct": true,
+   "hint": false,
+   "seconds": 23.9
+  },
+  {
+   "n": 3,
+   "type": "A book has # pages. Viraj reads # books like it. How many pages is that?",
+   "prompt": "A book has 24 pages. Viraj reads 6 books like it. How many pages is that?",
+   "answer": "144 pages",
+   "given": "104",
+   "correct": false,
+   "hint": false,
+   "seconds": 15.5
+  },
+  {
+   "n": 4,
+   "type": "A book has # pages. Viraj reads # books like it. How many pages is that?",
+   "prompt": "A book has 67 pages. Viraj reads 5 books like it. How many pages is that?",
+   "answer": "335 pages",
+   "given": "335",
+   "correct": true,
+   "hint": false,
+   "seconds": 117
+  },
+  {
+   "n": 5,
+   "type": "# × # = ?",
+   "prompt": "79 × 5 = ?",
+   "answer": "395",
+   "given": "395",
+   "correct": true,
+   "hint": false,
+   "seconds": 11
+  },
+  {
+   "n": 6,
+   "type": "Which is equal to # × #?",
+   "prompt": "Which is equal to 69 × 7?",
+   "answer": "(60 × 7) + (9 × 7)",
+   "given": "(60 × 7) + (9 × 7)",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.5
+  },
+  {
+   "n": 7,
+   "type": "# × # = ?",
+   "prompt": "58 × 4 = ?",
+   "answer": "232",
+   "given": "232",
+   "correct": true,
+   "hint": false,
+   "seconds": 26.3
+  },
+  {
+   "n": 8,
+   "type": "A book has # pages. Viraj reads # books like it. How many pages is that?",
+   "prompt": "A book has 29 pages. Viraj reads 7 books like it. How many pages is that?",
+   "answer": "203 pages",
+   "given": "203",
+   "correct": true,
+   "hint": false,
+   "seconds": 23
+  },
+  {
+   "n": 9,
+   "type": "Which is equal to # × #?",
+   "prompt": "Which is equal to 78 × 6?",
+   "answer": "(70 × 6) + (8 × 6)",
+   "given": "(70 × 6) + (8 × 6)",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.2
+  },
+  {
+   "n": 10,
+   "type": "A book has # pages. Viraj reads # books like it. How many pages is that?",
+   "prompt": "A book has 68 pages. Viraj reads 5 books like it. How many pages is that?",
+   "answer": "340 pages",
+   "given": "340",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.9
+  }
+ ]
+}
