@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-26-17-015Z-5j16",
+ "player": "p1",
+ "topic": "time-money",
+ "level": 1,
+ "levelTitle": "Clock Math",
+ "startedAt": "2026-11-18T01:23:09.884Z",
+ "endedAt": "2026-11-18T01:26:17.015Z",
+ "completed": true,
+ "correct": 7,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 167,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many hours are in # days?",
+   "prompt": "How many hours are in 4 days?",
+   "answer": "96 h",
+   "given": "100",
+   "correct": false,
+   "hint": false,
+   "seconds": 7.5
+  },
+  {
+   "n": 2,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 345 minutes long. That is 5 hours and how many minutes?",
+   "answer": "45 min",
+   "given": "45",
+   "correct": true,
+   "hint": false,
+   "seconds": 33.3
+  },
+  {
+   "n": 3,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 6 min 12 s long. How many seconds is that?",
+   "answer": "372 s",
+   "given": "612",
+   "correct": false,
+   "hint": false,
+   "seconds": 8.4
+  },
+  {
+   "n": 4,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "8 hours 50 minutes is how many minutes?",
+   "answer": "530 min",
+   "given": "530",
+   "correct": true,
+   "hint": false,
+   "seconds": 25.9
+  },
+  {
+   "n": 5,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 11 min 32 s long. How many seconds is that?",
+   "answer": "692 s",
+   "given": "1132",
+   "correct": false,
+   "hint": false,
+   "seconds": 10
+  },
+  {
+   "n": 6,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 225 minutes long. That is 3 hours and how many minutes?",
+   "answer": "45 min",
+   "given": "45",
+   "correct": true,
+   "hint": false,
+   "seconds": 16
+  },
+  {
+   "n": 7,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "8 hours 39 minutes is how many minutes?",
+   "answer": "519 min",
+   "given": "519",
+   "correct": true,
+   "hint": false,
+   "seconds": 29.5
+  },
+  {
+   "n": 8,
+   "type": "How many hours are in # days?",
+   "prompt": "How many hours are in 3 days?",
+   "answer": "72 h",
+   "given": "72",
+   "correct": true,
+   "hint": false,
+   "seconds": 17
+  },
+  {
+   "n": 9,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 195 minutes long. That is 3 hours and how many minutes?",
+   "answer": "15 min",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.2
+  },
+  {
+   "n": 10,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "2 hours 37 minutes is how many minutes?",
+   "answer": "157 min",
+   "given": "157",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.6
+  }
+ ]
+}
