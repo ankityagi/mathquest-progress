@@ -1,0 +1,38 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-29-36-507Z-sgs4",
+ "player": "p1",
+ "topic": "patterns",
+ "level": 1,
+ "levelTitle": "What Comes Next?",
+ "startedAt": "2026-11-18T01:27:45.883Z",
+ "endedAt": "2026-11-18T01:29:36.507Z",
+ "completed": false,
+ "correct": 0,
+ "total": 10,
+ "stars": 0,
+ "hints": 1,
+ "seconds": 103,
+ "questions": [
+  {
+   "n": 1,
+   "type": "What number comes next? # ?",
+   "prompt": "What number comes next? 377, 452, 527, 602, ?",
+   "answer": "677",
+   "given": "672",
+   "correct": false,
+   "hint": true,
+   "seconds": 73.5
+  },
+  {
+   "n": 2,
+   "type": "What number comes next? # ?",
+   "prompt": "What number comes next? 259, 235, 211, 187, ?",
+   "answer": "163",
+   "given": "167",
+   "correct": false,
+   "hint": false,
+   "seconds": 29.9
+  }
+ ]
+}
