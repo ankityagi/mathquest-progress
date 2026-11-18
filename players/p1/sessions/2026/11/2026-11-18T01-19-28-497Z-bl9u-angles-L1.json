@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-18T01-19-28-497Z-bl9u",
+ "player": "p1",
+ "topic": "angles",
+ "level": 1,
+ "levelTitle": "Angle Types",
+ "startedAt": "2026-11-18T01:17:34.471Z",
+ "endedAt": "2026-11-18T01:19:28.497Z",
+ "completed": true,
+ "correct": 7,
+ "total": 10,
+ "stars": 0,
+ "hints": 1,
+ "seconds": 80,
+ "questions": [
+  {
+   "n": 1,
+   "type": "What kind of angle is this?",
+   "prompt": "What kind of angle is this?",
+   "answer": "Acute",
+   "given": "Acute",
+   "correct": true,
+   "hint": true,
+   "seconds": 18.7
+  },
+  {
+   "n": 2,
+   "type": "Is #° acute or obtuse?",
+   "prompt": "Is 65° acute or obtuse?",
+   "answer": "Acute",
+   "given": "Acute",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.4
+  },
+  {
+   "n": 3,
+   "type": "An angle measures #°. What kind of angle is it?",
+   "prompt": "An angle measures 100°. What kind of angle is it?",
+   "answer": "Obtuse",
+   "given": "Straight",
+   "correct": false,
+   "hint": false,
+   "seconds": 5.1
+  },
+  {
+   "n": 4,
+   "type": "Angle A is #°, Angle B is #° and Angle C is #°. Which one is acute?",
+   "prompt": "Angle A is 90°, Angle B is 20° and Angle C is 120°. Which one is acute?",
+   "answer": "Angle B",
+   "given": "Angle B",
+   "correct": true,
+   "hint": false,
+   "seconds": 10
+  },
+  {
+   "n": 5,
+   "type": "An angle measures #°. What kind of angle is it?",
+   "prompt": "An angle measures 145°. What kind of angle is it?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 5
+  },
+  {
+   "n": 6,
+   "type": "What kind of angle is this?",
+   "prompt": "What kind of angle is this?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "n": 7,
+   "type": "Angle A is #°, Angle B is #° and Angle C is #°. Which one is obtuse?",
+   "prompt": "Angle A is 90°, Angle B is 40° and Angle C is 105°. Which one is obtuse?",
+   "answer": "Angle C",
+   "given": "Angle B",
+   "correct": false,
+   "hint": false,
+   "seconds": 10.3
+  },
+  {
+   "n": 8,
+   "type": "Is #° acute or obtuse?",
+   "prompt": "Is 85° acute or obtuse?",
+   "answer": "Acute",
+   "given": "Obtuse",
+   "correct": false,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "n": 9,
+   "type": "Is #° acute or obtuse?",
+   "prompt": "Is 100° acute or obtuse?",
+   "answer": "Obtuse",
+   "given": "Obtuse",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "n": 10,
+   "type": "Angle A is #°, Angle B is #° and Angle C is #°. Which one is obtuse?",
+   "prompt": "Angle A is 90°, Angle B is 15° and Angle C is 100°. Which one is obtuse?",
+   "answer": "Angle C",
+   "given": "Angle C",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.4
+  }
+ ]
+}
