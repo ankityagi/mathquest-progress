@@ -1,0 +1,68 @@
+{
+ "v": 1,
+ "id": "2026-11-19T05-05-53-593Z-acou",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 3,
+ "levelTitle": "Picture Graphs",
+ "startedAt": "2026-11-19T04:58:58.462Z",
+ "endedAt": "2026-11-19T05:05:53.593Z",
+ "completed": false,
+ "correct": 2,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 137,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many more students for Apple than Banana?",
+   "prompt": "How many more students for Apple than Banana?",
+   "answer": "20 students",
+   "given": "2",
+   "correct": false,
+   "hint": false,
+   "seconds": 15.7
+  },
+  {
+   "n": 2,
+   "type": "How many books in all?",
+   "prompt": "How many books in all?",
+   "answer": "90 books",
+   "given": "90",
+   "correct": true,
+   "hint": false,
+   "seconds": 15.8
+  },
+  {
+   "n": 3,
+   "type": "In a picture graph each star stands for # books. Viraj read # books. How many stars should",
+   "prompt": "In a picture graph each star stands for 3 books. Viraj read 12 books. How many stars should be drawn?",
+   "answer": "4 stars",
+   "given": "36",
+   "correct": false,
+   "hint": false,
+   "seconds": 58.9
+  },
+  {
+   "n": 4,
+   "type": "Each circle stands for # votes. How many for Fish?",
+   "prompt": "Each circle stands for 6 votes. How many for Fish?",
+   "answer": "21 votes",
+   "given": "21",
+   "correct": true,
+   "hint": false,
+   "seconds": 25.4
+  },
+  {
+   "n": 5,
+   "type": "How many books in all?",
+   "prompt": "How many books in all?",
+   "answer": "28 books",
+   "given": "30",
+   "correct": false,
+   "hint": false,
+   "seconds": 21.2
+  }
+ ]
+}
