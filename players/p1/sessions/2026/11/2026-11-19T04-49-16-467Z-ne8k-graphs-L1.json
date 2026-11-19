@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-19T04-49-16-467Z-ne8k",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 1,
+ "levelTitle": "Read the Bars",
+ "startedAt": "2026-11-19T04:47:44.144Z",
+ "endedAt": "2026-11-19T04:49:16.467Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 77,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many students for Tennis and Hockey together?",
+   "prompt": "How many students for Tennis and Hockey together?",
+   "answer": "50 students",
+   "given": "50",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.6
+  },
+  {
+   "n": 2,
+   "type": "How many students for Swim?",
+   "prompt": "How many students for Swim?",
+   "answer": "60 students",
+   "given": "60",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "n": 3,
+   "type": "Which bar is the tallest?",
+   "prompt": "Which bar is the tallest?",
+   "answer": "Apple",
+   "given": "Apple",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.6
+  },
+  {
+   "n": 4,
+   "type": "Which bar is the tallest?",
+   "prompt": "Which bar is the tallest?",
+   "answer": "Fish",
+   "given": "Fish",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "n": 5,
+   "type": "How many books for Tue and Thu together?",
+   "prompt": "How many books for Tue and Thu together?",
+   "answer": "70 books",
+   "given": "70",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.1
+  },
+  {
+   "n": 6,
+   "type": "How many books for Thu?",
+   "prompt": "How many books for Thu?",
+   "answer": "15 books",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.3
+  },
+  {
+   "n": 7,
+   "type": "How many votes for Fish and Dog together?",
+   "prompt": "How many votes for Fish and Dog together?",
+   "answer": "100 votes",
+   "given": "100",
+   "correct": true,
+   "hint": false,
+   "seconds": 21.9
+  },
+  {
+   "n": 8,
+   "type": "How many books for Thu?",
+   "prompt": "How many books for Thu?",
+   "answer": "20 books",
+   "given": "20",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.6
+  },
+  {
+   "n": 9,
+   "type": "Which bar is the tallest?",
+   "prompt": "Which bar is the tallest?",
+   "answer": "Grape",
+   "given": "Grape",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  },
+  {
+   "n": 10,
+   "type": "How many students for Swim and Soccer together?",
+   "prompt": "How many students for Swim and Soccer together?",
+   "answer": "30 students",
+   "given": "30",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.6
+  }
+ ]
+}
