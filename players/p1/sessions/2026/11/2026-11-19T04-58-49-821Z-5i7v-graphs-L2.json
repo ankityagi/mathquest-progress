@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-19T04-58-49-821Z-5i7v",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 2,
+ "levelTitle": "Compare Bars",
+ "startedAt": "2026-11-19T04:56:27.301Z",
+ "endedAt": "2026-11-19T04:58:49.821Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 133,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many more would Bird need to tie with Rabbit?",
+   "prompt": "How many more would Bird need to tie with Rabbit?",
+   "answer": "50 votes",
+   "given": "50",
+   "correct": true,
+   "hint": false,
+   "seconds": 33.9
+  },
+  {
+   "n": 2,
+   "type": "How many books are shown in all?",
+   "prompt": "How many books are shown in all?",
+   "answer": "190 books",
+   "given": "190",
+   "correct": true,
+   "hint": false,
+   "seconds": 16.2
+  },
+  {
+   "n": 3,
+   "type": "How many more students for Hockey than for Tennis?",
+   "prompt": "How many more students for Hockey than for Tennis?",
+   "answer": "8 students",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.3
+  },
+  {
+   "n": 4,
+   "type": "How many more would Tue need to tie with Wed?",
+   "prompt": "How many more would Tue need to tie with Wed?",
+   "answer": "6 books",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.5
+  },
+  {
+   "n": 5,
+   "type": "How many students are shown in all?",
+   "prompt": "How many students are shown in all?",
+   "answer": "90 students",
+   "given": "90",
+   "correct": true,
+   "hint": false,
+   "seconds": 15.3
+  },
+  {
+   "n": 6,
+   "type": "How many more books for Tue than for Wed?",
+   "prompt": "How many more books for Tue than for Wed?",
+   "answer": "8 books",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "n": 7,
+   "type": "How many more would Apple need to tie with Mango?",
+   "prompt": "How many more would Apple need to tie with Mango?",
+   "answer": "20 students",
+   "given": "20",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.8
+  },
+  {
+   "n": 8,
+   "type": "How many votes are shown in all?",
+   "prompt": "How many votes are shown in all?",
+   "answer": "75 votes",
+   "given": "55",
+   "correct": false,
+   "hint": false,
+   "seconds": 16.9
+  },
+  {
+   "n": 9,
+   "type": "How many more students for Soccer than for Swim?",
+   "prompt": "How many more students for Soccer than for Swim?",
+   "answer": "40 students",
+   "given": "40",
+   "correct": true,
+   "hint": false,
+   "seconds": 11
+  },
+  {
+   "n": 10,
+   "type": "How many more would Dog need to tie with Cat?",
+   "prompt": "How many more would Dog need to tie with Cat?",
+   "answer": "40 votes",
+   "given": "40",
+   "correct": true,
+   "hint": false,
+   "seconds": 7
+  }
+ ]
+}
