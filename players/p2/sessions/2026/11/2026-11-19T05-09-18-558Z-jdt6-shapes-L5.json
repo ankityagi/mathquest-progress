@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-19T05-09-18-558Z-jdt6",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 5,
+ "levelTitle": "Measure It",
+ "startedAt": "2026-11-19T05:06:00.709Z",
+ "endedAt": "2026-11-19T05:09:18.558Z",
+ "completed": true,
+ "correct": 4,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 174,
+ "questions": [
+  {
+   "type": "How many cubes longer is the blue ribbon than the red one?",
+   "n": 1,
+   "prompt": "How many cubes longer is the blue ribbon than the red one?",
+   "answer": "5",
+   "given": "6",
+   "correct": false,
+   "hint": false,
+   "seconds": 21.1
+  },
+  {
+   "type": "How many cubes long is the worm?",
+   "n": 2,
+   "prompt": "How many cubes long is the worm?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.5
+  },
+  {
+   "type": "How many cubes longer is the blue ribbon than the red one?",
+   "n": 3,
+   "prompt": "How many cubes longer is the blue ribbon than the red one?",
+   "answer": "8",
+   "given": "9",
+   "correct": false,
+   "hint": false,
+   "seconds": 19.7
+  },
+  {
+   "type": "How many cubes long is the ribbon?",
+   "n": 4,
+   "prompt": "How many cubes long is the ribbon?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.9
+  },
+  {
+   "type": "How many cubes longer is the blue ribbon than the red one?",
+   "n": 5,
+   "prompt": "How many cubes longer is the blue ribbon than the red one?",
+   "answer": "3",
+   "given": "2",
+   "correct": false,
+   "hint": false,
+   "seconds": 9.6
+  },
+  {
+   "type": "How many cubes long is the pencil?",
+   "n": 6,
+   "prompt": "How many cubes long is the pencil?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 13
+  },
+  {
+   "type": "How many cubes long is the worm?",
+   "n": 7,
+   "prompt": "How many cubes long is the worm?",
+   "answer": "9",
+   "given": "8",
+   "correct": false,
+   "hint": false,
+   "seconds": 11.4
+  },
+  {
+   "type": "How many cubes longer is the blue ribbon than the red one?",
+   "n": 8,
+   "prompt": "How many cubes longer is the blue ribbon than the red one?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 22.9
+  },
+  {
+   "type": "How many cubes longer is the blue ribbon than the red one?",
+   "n": 9,
+   "prompt": "How many cubes longer is the blue ribbon than the red one?",
+   "answer": "5",
+   "given": "6",
+   "correct": false,
+   "hint": false,
+   "seconds": 40.1
+  },
+  {
+   "type": "How many cubes long is the stick?",
+   "n": 10,
+   "prompt": "How many cubes long is the stick?",
+   "answer": "6",
+   "given": "14",
+   "correct": false,
+   "hint": false,
+   "seconds": 14.2
+  }
+ ]
+}
