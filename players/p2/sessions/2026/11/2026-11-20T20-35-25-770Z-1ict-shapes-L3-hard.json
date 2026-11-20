@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-35-25-770Z-1ict",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 3,
+ "levelTitle": "Halves & Quarters (Hard)",
+ "startedAt": "2026-11-20T20:34:05.791Z",
+ "endedAt": "2026-11-20T20:35:25.770Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 72,
+ "questions": [
+  {
+   "type": "Kid eats half of # grapes. How many does he eat?",
+   "n": 1,
+   "prompt": "Kid eats half of 8 grapes. How many does he eat?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.3
+  },
+  {
+   "type": "How many quarters are in # whole pizzas?",
+   "n": 2,
+   "prompt": "How many quarters are in 4 whole pizzas?",
+   "answer": "16",
+   "given": "4",
+   "correct": false,
+   "hint": false,
+   "seconds": 2.4
+  },
+  {
+   "type": "Which piece of the same pizza is bigger?",
+   "n": 3,
+   "prompt": "Which piece of the same pizza is bigger?",
+   "answer": "a half",
+   "given": "a half",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.3
+  },
+  {
+   "type": "Which piece of the same pizza is bigger?",
+   "n": 4,
+   "prompt": "Which piece of the same pizza is bigger?",
+   "answer": "a half",
+   "given": "a half",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Kid eats half of # grapes. How many does he eat?",
+   "n": 5,
+   "prompt": "Kid eats half of 4 grapes. How many does he eat?",
+   "answer": "2",
+   "given": "2",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.9
+  },
+  {
+   "type": "How many quarters are in # whole pizzas?",
+   "n": 6,
+   "prompt": "How many quarters are in 3 whole pizzas?",
+   "answer": "12",
+   "given": "12",
+   "correct": true,
+   "hint": false,
+   "seconds": 10
+  },
+  {
+   "type": "Which piece of the same pizza is bigger?",
+   "n": 7,
+   "prompt": "Which piece of the same pizza is bigger?",
+   "answer": "a half",
+   "given": "a half",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  },
+  {
+   "type": "Kid eats half of # grapes. How many does he eat?",
+   "n": 8,
+   "prompt": "Kid eats half of 10 grapes. How many does he eat?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.3
+  },
+  {
+   "type": "How many quarters are in # whole pizzas?",
+   "n": 9,
+   "prompt": "How many quarters are in 2 whole pizzas?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.9
+  },
+  {
+   "type": "How many quarters are in # whole pizzas?",
+   "n": 10,
+   "prompt": "How many quarters are in 4 whole pizzas?",
+   "answer": "16",
+   "given": "16",
+   "correct": true,
+   "hint": false,
+   "seconds": 22
+  }
+ ],
+ "mode": "hard"
+}
