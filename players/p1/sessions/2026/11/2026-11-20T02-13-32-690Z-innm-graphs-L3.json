@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-13-32-690Z-innm",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 3,
+ "levelTitle": "Picture Graphs",
+ "startedAt": "2026-11-20T02:12:00.217Z",
+ "endedAt": "2026-11-20T02:13:32.690Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 86,
+ "questions": [
+  {
+   "n": 1,
+   "type": "In a picture graph each star stands for # books. Viraj read # books. How many stars should",
+   "prompt": "In a picture graph each star stands for 4 books. Viraj read 12 books. How many stars should be drawn?",
+   "answer": "3 stars",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "n": 2,
+   "type": "How many votes in all?",
+   "prompt": "How many votes in all?",
+   "answer": "130 votes",
+   "given": "130",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.1
+  },
+  {
+   "n": 3,
+   "type": "Each circle stands for # votes. How many for Cat?",
+   "prompt": "Each circle stands for 6 votes. How many for Cat?",
+   "answer": "42 votes",
+   "given": "42",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.2
+  },
+  {
+   "n": 4,
+   "type": "How many more students for Mango than Grape?",
+   "prompt": "How many more students for Mango than Grape?",
+   "answer": "15 students",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.9
+  },
+  {
+   "n": 5,
+   "type": "In a picture graph each star stands for # books. Viraj read # books. How many stars should",
+   "prompt": "In a picture graph each star stands for 4 books. Viraj read 36 books. How many stars should be drawn?",
+   "answer": "9 stars",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.3
+  },
+  {
+   "n": 6,
+   "type": "How many students in all?",
+   "prompt": "How many students in all?",
+   "answer": "155 students",
+   "given": "155",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.5
+  },
+  {
+   "n": 7,
+   "type": "How many more students for Mango than Banana?",
+   "prompt": "How many more students for Mango than Banana?",
+   "answer": "10 students",
+   "given": "10",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.1
+  },
+  {
+   "n": 8,
+   "type": "Each circle stands for # votes. How many for Bird?",
+   "prompt": "Each circle stands for 2 votes. How many for Bird?",
+   "answer": "14 votes",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.9
+  },
+  {
+   "n": 9,
+   "type": "In a picture graph each star stands for # books. Viraj read # books. How many stars should",
+   "prompt": "In a picture graph each star stands for 3 books. Viraj read 9 books. How many stars should be drawn?",
+   "answer": "3 stars",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "n": 10,
+   "type": "Each circle stands for # votes. How many for Bird?",
+   "prompt": "Each circle stands for 4 votes. How many for Bird?",
+   "answer": "28 votes",
+   "given": "28",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.3
+  }
+ ]
+}
