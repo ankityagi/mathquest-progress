@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-33-46-016Z-f3u9",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 8,
+ "levelTitle": "Picture Graphs",
+ "startedAt": "2026-11-20T20:31:53.588Z",
+ "endedAt": "2026-11-20T20:33:46.016Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 101,
+ "questions": [
+  {
+   "type": "How many more grapes than apples?",
+   "n": 1,
+   "prompt": "How many more grapes than apples?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 24.9
+  },
+  {
+   "type": "Which fruit has the most?",
+   "n": 2,
+   "prompt": "Which fruit has the most?",
+   "answer": "Oranges",
+   "given": "Oranges",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "How many pieces of fruit are there in all?",
+   "n": 3,
+   "prompt": "How many pieces of fruit are there in all?",
+   "answer": "15",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.3
+  },
+  {
+   "type": "How many oranges are there?",
+   "n": 4,
+   "prompt": "How many oranges are there?",
+   "answer": "3",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.7
+  },
+  {
+   "type": "How many pieces of fruit are there in all?",
+   "n": 5,
+   "prompt": "How many pieces of fruit are there in all?",
+   "answer": "18",
+   "given": "15",
+   "correct": false,
+   "hint": false,
+   "seconds": 16.9
+  },
+  {
+   "type": "How many apples are there?",
+   "n": 6,
+   "prompt": "How many apples are there?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.5
+  },
+  {
+   "type": "How many more grapes than oranges?",
+   "n": 7,
+   "prompt": "How many more grapes than oranges?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.7
+  },
+  {
+   "type": "Which fruit has the most?",
+   "n": 8,
+   "prompt": "Which fruit has the most?",
+   "answer": "Apples",
+   "given": "Apples",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "How many more apples than oranges?",
+   "n": 9,
+   "prompt": "How many more apples than oranges?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.6
+  },
+  {
+   "type": "How many grapes are there?",
+   "n": 10,
+   "prompt": "How many grapes are there?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.3
+  }
+ ]
+}
