@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-32-39-820Z-kl28",
+ "player": "p2",
+ "topic": "write",
+ "level": 1,
+ "levelTitle": "Trace d",
+ "startedAt": "2026-11-20T02:30:43.095Z",
+ "endedAt": "2026-11-20T02:32:39.820Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 2,
+ "hints": 1,
+ "seconds": 104,
+ "questions": [
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 1,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.6
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 2,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.2
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 3,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": true,
+   "seconds": 15.1
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 4,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 22.9
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 5,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.2
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 6,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 5
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 7,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.1
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 8,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.2
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 9,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "Trace _ with your finger. Start at dot #.",
+   "n": 10,
+   "prompt": "Trace d with your finger. Start at dot 1.",
+   "answer": "d",
+   "given": "traced",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  }
+ ]
+}
