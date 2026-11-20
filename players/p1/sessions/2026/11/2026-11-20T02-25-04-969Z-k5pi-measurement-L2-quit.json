@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-25-04-969Z-k5pi",
+ "player": "p1",
+ "topic": "measurement",
+ "level": 2,
+ "levelTitle": "Fence or Floor?",
+ "startedAt": "2026-11-20T02:20:06.509Z",
+ "endedAt": "2026-11-20T02:25:04.969Z",
+ "completed": false,
+ "correct": 1,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 286,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Ribbon goes all around the edge of a photo that is # cm by # cm. How much ribbon is needed",
+   "prompt": "Ribbon goes all around the edge of a photo that is 25 cm by 16 cm. How much ribbon is needed?",
+   "answer": "82 cm",
+   "given": "400",
+   "correct": false,
+   "hint": false,
+   "seconds": 244.5
+  },
+  {
+   "n": 2,
+   "type": "Do you need area or perimeter for putting a border around a bulletin board?",
+   "prompt": "Do you need area or perimeter for putting a border around a bulletin board?",
+   "answer": "Perimeter",
+   "given": "Perimeter",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.4
+  },
+  {
+   "n": 3,
+   "type": "New carpet will cover a bedroom floor that is # ft by # ft. How many square feet of carpet",
+   "prompt": "New carpet will cover a bedroom floor that is 11 ft by 12 ft. How many square feet of carpet are needed?",
+   "answer": "132 sq ft",
+   "given": "34",
+   "correct": false,
+   "hint": false,
+   "seconds": 23.6
+  }
+ ]
+}
