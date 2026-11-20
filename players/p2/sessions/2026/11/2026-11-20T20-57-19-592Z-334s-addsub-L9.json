@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-57-19-592Z-334s",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 9,
+ "levelTitle": "Three Numbers",
+ "startedAt": "2026-11-20T20:56:15.079Z",
+ "endedAt": "2026-11-20T20:57:19.592Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 57,
+ "questions": [
+  {
+   "type": "# + # + # = ?",
+   "n": 1,
+   "prompt": "2 + 1 + 9 = ?",
+   "answer": "12",
+   "given": "12",
+   "correct": true,
+   "hint": false,
+   "seconds": 7
+  },
+  {
+   "type": "Is this true or false?# + # = # + #",
+   "n": 2,
+   "prompt": "Is this true or false?3 + 8 = 10 + 0",
+   "answer": "False",
+   "given": "False",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.5
+  },
+  {
+   "type": "Which one is the same as # + #?",
+   "n": 3,
+   "prompt": "Which one is the same as 3 + 4?",
+   "answer": "5 + 2",
+   "given": "5 + 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "type": "# + # + # = ?",
+   "n": 4,
+   "prompt": "9 + 5 + 5 = ?",
+   "answer": "19",
+   "given": "19",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.4
+  },
+  {
+   "type": "Is this true or false?# + # = # + #",
+   "n": 5,
+   "prompt": "Is this true or false?2 + 8 = 4 + 7",
+   "answer": "False",
+   "given": "False",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.8
+  },
+  {
+   "type": "Which one is the same as # + #?",
+   "n": 6,
+   "prompt": "Which one is the same as 4 + 8?",
+   "answer": "9 + 3",
+   "given": "9 + 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.4
+  },
+  {
+   "type": "# + # + # = ?",
+   "n": 7,
+   "prompt": "4 + 2 + 6 = ?",
+   "answer": "12",
+   "given": "12",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.6
+  },
+  {
+   "type": "Is this true or false?# + # = # + #",
+   "n": 8,
+   "prompt": "Is this true or false?8 + 6 = 7 + 6",
+   "answer": "False",
+   "given": "False",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.7
+  },
+  {
+   "type": "Which one is the same as # + #?",
+   "n": 9,
+   "prompt": "Which one is the same as 4 + 8?",
+   "answer": "8 + 4",
+   "given": "8 + 4",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.7
+  },
+  {
+   "type": "# + # + # = ?",
+   "n": 10,
+   "prompt": "9 + 9 + 1 = ?",
+   "answer": "19",
+   "given": "19",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  }
+ ]
+}
