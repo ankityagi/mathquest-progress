@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T21-28-37-338Z-nyge",
+ "player": "p2",
+ "topic": "tens",
+ "level": 4,
+ "levelTitle": "Tens & Ones",
+ "startedAt": "2026-11-20T21:27:03.107Z",
+ "endedAt": "2026-11-20T21:28:37.338Z",
+ "completed": true,
+ "correct": 8,
+ "total": 10,
+ "stars": 1,
+ "hints": 0,
+ "seconds": 84,
+ "questions": [
+  {
+   "type": "Which picture shows #?",
+   "n": 1,
+   "prompt": "Which picture shows 46?",
+   "answer": "picture 3",
+   "given": "picture 1",
+   "correct": false,
+   "hint": false,
+   "seconds": 5.1
+  },
+  {
+   "type": "Each blue stick is #. Each yellow cube is #. What number is this?",
+   "n": 2,
+   "prompt": "Each blue stick is 10. Each yellow cube is 1. What number is this?",
+   "answer": "22",
+   "given": "22",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.1
+  },
+  {
+   "type": "Which picture shows #?",
+   "n": 3,
+   "prompt": "Which picture shows 42?",
+   "answer": "picture 3",
+   "given": "picture 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.3
+  },
+  {
+   "type": "Each blue stick is #. Each yellow cube is #. What number is this?",
+   "n": 4,
+   "prompt": "Each blue stick is 10. Each yellow cube is 1. What number is this?",
+   "answer": "46",
+   "given": "46",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.1
+  },
+  {
+   "type": "Each blue stick is #. Each yellow cube is #. What number is this?",
+   "n": 5,
+   "prompt": "Each blue stick is 10. Each yellow cube is 1. What number is this?",
+   "answer": "99",
+   "given": "99",
+   "correct": true,
+   "hint": false,
+   "seconds": 16.6
+  },
+  {
+   "type": "Which picture shows #?",
+   "n": 6,
+   "prompt": "Which picture shows 61?",
+   "answer": "picture 2",
+   "given": "picture 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "type": "Each blue stick is #. Each yellow cube is #. What number is this?",
+   "n": 7,
+   "prompt": "Each blue stick is 10. Each yellow cube is 1. What number is this?",
+   "answer": "90",
+   "given": "90",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.5
+  },
+  {
+   "type": "Which picture shows #?",
+   "n": 8,
+   "prompt": "Which picture shows 21?",
+   "answer": "picture 3",
+   "given": "picture 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.6
+  },
+  {
+   "type": "Which picture shows #?",
+   "n": 9,
+   "prompt": "Which picture shows 57?",
+   "answer": "picture 1",
+   "given": "picture 3",
+   "correct": false,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "type": "Each blue stick is #. Each yellow cube is #. What number is this?",
+   "n": 10,
+   "prompt": "Each blue stick is 10. Each yellow cube is 1. What number is this?",
+   "answer": "80",
+   "given": "80",
+   "correct": true,
+   "hint": false,
+   "seconds": 10
+  }
+ ]
+}
