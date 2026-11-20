@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T01-52-03-382Z-6qdm",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 7,
+ "levelTitle": "Half Past",
+ "startedAt": "2026-11-20T01:51:04.374Z",
+ "endedAt": "2026-11-20T01:52:03.382Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 51,
+ "questions": [
+  {
+   "type": "What time is it?",
+   "n": 1,
+   "prompt": "What time is it?",
+   "answer": "9:30",
+   "given": "9:30",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.2
+  },
+  {
+   "type": "At #:#, the long hand points to which number?",
+   "n": 2,
+   "prompt": "At 11:30, the long hand points to which number?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.6
+  },
+  {
+   "type": "At #:#, the long hand points to which number?",
+   "n": 3,
+   "prompt": "At 9:30, the long hand points to which number?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "type": "What time is it?",
+   "n": 4,
+   "prompt": "What time is it?",
+   "answer": "5:30",
+   "given": "5:30",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.3
+  },
+  {
+   "type": "At #:#, the long hand points to which number?",
+   "n": 5,
+   "prompt": "At 8:30, the long hand points to which number?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "type": "What time is it?",
+   "n": 6,
+   "prompt": "What time is it?",
+   "answer": "9:00",
+   "given": "9:00",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.1
+  },
+  {
+   "type": "At #:#, the long hand points to which number?",
+   "n": 7,
+   "prompt": "At 6:30, the long hand points to which number?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.1
+  },
+  {
+   "type": "What time is it?",
+   "n": 8,
+   "prompt": "What time is it?",
+   "answer": "3:30",
+   "given": "3:30",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.6
+  },
+  {
+   "type": "What time is it?",
+   "n": 9,
+   "prompt": "What time is it?",
+   "answer": "4:00",
+   "given": "4:00",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "type": "At #:#, the long hand points to which number?",
+   "n": 10,
+   "prompt": "At 5:30, the long hand points to which number?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  }
+ ]
+}
