@@ -1,0 +1,108 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-11-58-614Z-vlds",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 3,
+ "levelTitle": "Picture Graphs",
+ "startedAt": "2026-11-20T02:09:17.626Z",
+ "endedAt": "2026-11-20T02:11:58.614Z",
+ "completed": false,
+ "correct": 7,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 112,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Each circle stands for # students. How many for Apple?",
+   "prompt": "Each circle stands for 10 students. How many for Apple?",
+   "answer": "60 students",
+   "given": "60",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.6
+  },
+  {
+   "n": 2,
+   "type": "How many more students for Apple than Banana?",
+   "prompt": "How many more students for Apple than Banana?",
+   "answer": "5 students",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 16
+  },
+  {
+   "n": 3,
+   "type": "In a picture graph each star stands for # books. Viraj read # books. How many stars should",
+   "prompt": "In a picture graph each star stands for 4 books. Viraj read 28 books. How many stars should be drawn?",
+   "answer": "7 stars",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 16.2
+  },
+  {
+   "n": 4,
+   "type": "How many votes in all?",
+   "prompt": "How many votes in all?",
+   "answer": "155 votes",
+   "given": "155",
+   "correct": true,
+   "hint": false,
+   "seconds": 15
+  },
+  {
+   "n": 5,
+   "type": "How many more books for Mon than Thu?",
+   "prompt": "How many more books for Mon than Thu?",
+   "answer": "10 books",
+   "given": "25",
+   "correct": false,
+   "hint": false,
+   "seconds": 12
+  },
+  {
+   "n": 6,
+   "type": "Each circle stands for # votes. How many for Bird?",
+   "prompt": "Each circle stands for 4 votes. How many for Bird?",
+   "answer": "10 votes",
+   "given": "10",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.3
+  },
+  {
+   "n": 7,
+   "type": "How many students in all?",
+   "prompt": "How many students in all?",
+   "answer": "110 students",
+   "given": "110",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.1
+  },
+  {
+   "n": 8,
+   "type": "In a picture graph each star stands for # books. Viraj read # books. How many stars should",
+   "prompt": "In a picture graph each star stands for 3 books. Viraj read 24 books. How many stars should be drawn?",
+   "answer": "8 stars",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "n": 9,
+   "type": "How many students in all?",
+   "prompt": "How many students in all?",
+   "answer": "58 students",
+   "given": "145",
+   "correct": false,
+   "hint": false,
+   "seconds": 14.7
+  }
+ ]
+}
