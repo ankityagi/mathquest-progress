@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-42-30-820Z-nmrc",
+ "player": "p2",
+ "topic": "read",
+ "level": 3,
+ "levelTitle": "Rhymes",
+ "startedAt": "2026-11-20T20:41:48.454Z",
+ "endedAt": "2026-11-20T20:42:30.820Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 37,
+ "questions": [
+  {
+   "type": "Which word rhymes with tap?",
+   "n": 1,
+   "prompt": "Which word rhymes with tap?",
+   "answer": "map",
+   "given": "map",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.7
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 2,
+   "prompt": "Which word does not rhyme?",
+   "answer": "map",
+   "given": "map",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 3,
+   "prompt": "Which word does not rhyme?",
+   "answer": "pan",
+   "given": "pan",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "type": "Which word rhymes with wet?",
+   "n": 4,
+   "prompt": "Which word rhymes with wet?",
+   "answer": "net",
+   "given": "net",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 5,
+   "prompt": "Which word does not rhyme?",
+   "answer": "dog",
+   "given": "dog",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.7
+  },
+  {
+   "type": "Which word rhymes with jet?",
+   "n": 6,
+   "prompt": "Which word rhymes with jet?",
+   "answer": "net",
+   "given": "net",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.1
+  },
+  {
+   "type": "Which word rhymes with sun?",
+   "n": 7,
+   "prompt": "Which word rhymes with sun?",
+   "answer": "run",
+   "given": "run",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 8,
+   "prompt": "Which word does not rhyme?",
+   "answer": "sun",
+   "given": "sun",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.7
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 9,
+   "prompt": "Which word does not rhyme?",
+   "answer": "pig",
+   "given": "pig",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.2
+  },
+  {
+   "type": "Which word rhymes with run?",
+   "n": 10,
+   "prompt": "Which word rhymes with run?",
+   "answer": "sun",
+   "given": "sun",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  }
+ ]
+}
