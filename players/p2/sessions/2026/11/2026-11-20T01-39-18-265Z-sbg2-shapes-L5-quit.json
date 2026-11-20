@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "id": "2026-11-20T01-39-18-265Z-sbg2",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 5,
+ "levelTitle": "Measure It",
+ "startedAt": "2026-11-20T01:37:42.718Z",
+ "endedAt": "2026-11-20T01:39:18.265Z",
+ "completed": false,
+ "correct": 2,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 79,
+ "questions": [
+  {
+   "type": "How many cubes long is the stick?",
+   "n": 1,
+   "prompt": "How many cubes long is the stick?",
+   "answer": "10",
+   "given": "10",
+   "correct": true,
+   "hint": false,
+   "seconds": 20.9
+  },
+  {
+   "type": "How many cubes longer is the blue ribbon than the red one?",
+   "n": 2,
+   "prompt": "How many cubes longer is the blue ribbon than the red one?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 27.3
+  },
+  {
+   "type": "How many cubes long is the ribbon?",
+   "n": 3,
+   "prompt": "How many cubes long is the ribbon?",
+   "answer": "12",
+   "given": "13",
+   "correct": false,
+   "hint": false,
+   "seconds": 31
+  }
+ ]
+}
