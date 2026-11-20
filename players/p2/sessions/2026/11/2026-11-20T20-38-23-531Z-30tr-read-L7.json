@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-38-23-531Z-30tr",
+ "player": "p2",
+ "topic": "read",
+ "level": 7,
+ "levelTitle": "Sight Words 2",
+ "startedAt": "2026-11-20T20:37:42.152Z",
+ "endedAt": "2026-11-20T20:38:23.531Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 36,
+ "questions": [
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 1,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "out",
+   "given": "out",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.4
+  },
+  {
+   "type": "Find the word like. Check every letter.",
+   "n": 2,
+   "prompt": "Find the word like. Check every letter.",
+   "answer": "like",
+   "given": "like",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.5
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 3,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "out",
+   "given": "out",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "type": "Find the word there. Check every letter.",
+   "n": 4,
+   "prompt": "Find the word there. Check every letter.",
+   "answer": "there",
+   "given": "there",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 5,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "do",
+   "given": "do",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.8
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 6,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "they",
+   "given": "they",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 7,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "like",
+   "given": "like",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 8,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "with",
+   "given": "with",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9
+  },
+  {
+   "type": "Find the word like. Check every letter.",
+   "n": 9,
+   "prompt": "Find the word like. Check every letter.",
+   "answer": "like",
+   "given": "like",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.7
+  },
+  {
+   "type": "Find the word she. Check every letter.",
+   "n": 10,
+   "prompt": "Find the word she. Check every letter.",
+   "answer": "she",
+   "given": "she",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.6
+  }
+ ]
+}
