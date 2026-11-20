@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-28-03-760Z-ek20",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 8,
+ "levelTitle": "Picture Graphs",
+ "startedAt": "2026-11-20T20:26:38.105Z",
+ "endedAt": "2026-11-20T20:28:03.760Z",
+ "completed": true,
+ "correct": 8,
+ "total": 10,
+ "stars": 1,
+ "hints": 0,
+ "seconds": 76,
+ "questions": [
+  {
+   "type": "Which fruit has the most?",
+   "n": 1,
+   "prompt": "Which fruit has the most?",
+   "answer": "Bananas",
+   "given": "Bananas",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.2
+  },
+  {
+   "type": "How many bananas are there?",
+   "n": 2,
+   "prompt": "How many bananas are there?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "type": "How many pieces of fruit are there in all?",
+   "n": 3,
+   "prompt": "How many pieces of fruit are there in all?",
+   "answer": "14",
+   "given": "13",
+   "correct": false,
+   "hint": false,
+   "seconds": 8.7
+  },
+  {
+   "type": "How many more oranges than apples?",
+   "n": 4,
+   "prompt": "How many more oranges than apples?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.1
+  },
+  {
+   "type": "How many oranges are there?",
+   "n": 5,
+   "prompt": "How many oranges are there?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.6
+  },
+  {
+   "type": "Which fruit has the fewest?",
+   "n": 6,
+   "prompt": "Which fruit has the fewest?",
+   "answer": "Grapes",
+   "given": "Grapes",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "How many more oranges than apples?",
+   "n": 7,
+   "prompt": "How many more oranges than apples?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.6
+  },
+  {
+   "type": "How many pieces of fruit are there in all?",
+   "n": 8,
+   "prompt": "How many pieces of fruit are there in all?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.6
+  },
+  {
+   "type": "How many pieces of fruit are there in all?",
+   "n": 9,
+   "prompt": "How many pieces of fruit are there in all?",
+   "answer": "16",
+   "given": "16",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.1
+  },
+  {
+   "type": "How many grapes are there?",
+   "n": 10,
+   "prompt": "How many grapes are there?",
+   "answer": "1",
+   "given": "11",
+   "correct": false,
+   "hint": false,
+   "seconds": 5.8
+  }
+ ]
+}
