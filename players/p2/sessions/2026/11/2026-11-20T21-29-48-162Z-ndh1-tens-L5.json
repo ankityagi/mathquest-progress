@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T21-29-48-162Z-ndh1",
+ "player": "p2",
+ "topic": "tens",
+ "level": 5,
+ "levelTitle": "Place Value",
+ "startedAt": "2026-11-20T21:28:41.620Z",
+ "endedAt": "2026-11-20T21:29:48.162Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 54,
+ "questions": [
+  {
+   "type": "# ones and # tens make what number?",
+   "n": 1,
+   "prompt": "4 ones and 5 tens make what number?",
+   "answer": "54",
+   "given": "45",
+   "correct": false,
+   "hint": false,
+   "seconds": 6.7
+  },
+  {
+   "type": "# tens and # ones make what number?",
+   "n": 2,
+   "prompt": "9 tens and 9 ones make what number?",
+   "answer": "99",
+   "given": "99",
+   "correct": true,
+   "hint": false,
+   "seconds": 6
+  },
+  {
+   "type": "How many ones are in #?",
+   "n": 3,
+   "prompt": "How many ones are in 77?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 5
+  },
+  {
+   "type": "How many tens are in #?",
+   "n": 4,
+   "prompt": "How many tens are in 52?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.6
+  },
+  {
+   "type": "How many ones are in #?",
+   "n": 5,
+   "prompt": "How many ones are in 96?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.1
+  },
+  {
+   "type": "How many tens are in #?",
+   "n": 6,
+   "prompt": "How many tens are in 31?",
+   "answer": "3",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  },
+  {
+   "type": "# tens and # ones make what number?",
+   "n": 7,
+   "prompt": "8 tens and 7 ones make what number?",
+   "answer": "87",
+   "given": "87",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.7
+  },
+  {
+   "type": "# ones and # tens make what number?",
+   "n": 8,
+   "prompt": "1 ones and 2 tens make what number?",
+   "answer": "21",
+   "given": "21",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.6
+  },
+  {
+   "type": "# tens and # ones make what number?",
+   "n": 9,
+   "prompt": "8 tens and 1 ones make what number?",
+   "answer": "81",
+   "given": "81",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.3
+  },
+  {
+   "type": "How many tens are in #?",
+   "n": 10,
+   "prompt": "How many tens are in 71?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.2
+  }
+ ]
+}
