@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T01-37-21-178Z-5cd9",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 3,
+ "levelTitle": "Halves & Quarters",
+ "startedAt": "2026-11-20T01:36:46.593Z",
+ "endedAt": "2026-11-20T01:37:21.178Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 27,
+ "questions": [
+  {
+   "type": "Is this shape cut into equal parts?",
+   "n": 1,
+   "prompt": "Is this shape cut into equal parts?",
+   "answer": "Yes, equal",
+   "given": "Yes, equal",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9
+  },
+  {
+   "type": "How much of the shape is yellow?",
+   "n": 2,
+   "prompt": "How much of the shape is yellow?",
+   "answer": "the whole thing",
+   "given": "the whole thing",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "type": "How many halves make one whole pizza?",
+   "n": 3,
+   "prompt": "How many halves make one whole pizza?",
+   "answer": "2",
+   "given": "2",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "type": "How much of the shape is yellow?",
+   "n": 4,
+   "prompt": "How much of the shape is yellow?",
+   "answer": "one half",
+   "given": "one half",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.1
+  },
+  {
+   "type": "Is this shape cut into equal parts?",
+   "n": 5,
+   "prompt": "Is this shape cut into equal parts?",
+   "answer": "Yes, equal",
+   "given": "Yes, equal",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.2
+  },
+  {
+   "type": "How many quarters make one whole pizza?",
+   "n": 6,
+   "prompt": "How many quarters make one whole pizza?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "How many halves make one whole pizza?",
+   "n": 7,
+   "prompt": "How many halves make one whole pizza?",
+   "answer": "2",
+   "given": "2",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  },
+  {
+   "type": "How much of the shape is yellow?",
+   "n": 8,
+   "prompt": "How much of the shape is yellow?",
+   "answer": "one quarter",
+   "given": "one quarter",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "Is this shape cut into equal parts?",
+   "n": 9,
+   "prompt": "Is this shape cut into equal parts?",
+   "answer": "No, not equal",
+   "given": "No, not equal",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  },
+  {
+   "type": "How many quarters make one whole pizza?",
+   "n": 10,
+   "prompt": "How many quarters make one whole pizza?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  }
+ ]
+}
