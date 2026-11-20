@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-42-14-009Z-dz2s",
+ "player": "p1",
+ "topic": "fractions",
+ "level": 1,
+ "levelTitle": "Fraction Bars",
+ "startedAt": "2026-11-20T02:40:07.407Z",
+ "endedAt": "2026-11-20T02:42:14.009Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 114,
+ "questions": [
+  {
+   "n": 1,
+   "type": "What fraction of the bar is not shaded? Type it like #.",
+   "prompt": "What fraction of the bar is not shaded? Type it like 3/8.",
+   "answer": "7/8",
+   "given": "7/8",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.5
+  },
+  {
+   "n": 2,
+   "type": "A pizza is cut into # equal slices. Viraj eats # of it. How many slices are left?",
+   "prompt": "A pizza is cut into 12 equal slices. Viraj eats 8/12 of it. How many slices are left?",
+   "answer": "4 slices",
+   "given": "4/12",
+   "correct": false,
+   "hint": false,
+   "seconds": 5.9
+  },
+  {
+   "n": 3,
+   "type": "What fraction of the bar is shaded? Type it like #.",
+   "prompt": "What fraction of the bar is shaded? Type it like 3/8.",
+   "answer": "9/12",
+   "given": "9/12",
+   "correct": true,
+   "hint": false,
+   "seconds": 15.6
+  },
+  {
+   "n": 4,
+   "type": "Both bars are the same size. Which fraction matches the bottom bar?",
+   "prompt": "Both bars are the same size. Which fraction matches the bottom bar?",
+   "answer": "10/12",
+   "given": "10/12",
+   "correct": true,
+   "hint": false,
+   "seconds": 16.4
+  },
+  {
+   "n": 5,
+   "type": "Both bars are the same size. Which fraction matches the bottom bar?",
+   "prompt": "Both bars are the same size. Which fraction matches the bottom bar?",
+   "answer": "4/6",
+   "given": "4/6",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.6
+  },
+  {
+   "n": 6,
+   "type": "What fraction of the bar is not shaded? Type it like #.",
+   "prompt": "What fraction of the bar is not shaded? Type it like 3/8.",
+   "answer": "1/5",
+   "given": "1/5",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.8
+  },
+  {
+   "n": 7,
+   "type": "What fraction of the bar is shaded? Type it like #.",
+   "prompt": "What fraction of the bar is shaded? Type it like 3/8.",
+   "answer": "3/6",
+   "given": "3/6",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.4
+  },
+  {
+   "n": 8,
+   "type": "A pizza is cut into # equal slices. Viraj eats # of it. How many slices are left?",
+   "prompt": "A pizza is cut into 10 equal slices. Viraj eats 3/10 of it. How many slices are left?",
+   "answer": "7 slices",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.1
+  },
+  {
+   "n": 9,
+   "type": "Both bars are the same size. Which fraction matches the bottom bar?",
+   "prompt": "Both bars are the same size. Which fraction matches the bottom bar?",
+   "answer": "6/8",
+   "given": "6/8",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.6
+  },
+  {
+   "n": 10,
+   "type": "What fraction of the bar is not shaded? Type it like #.",
+   "prompt": "What fraction of the bar is not shaded? Type it like 3/8.",
+   "answer": "9/12",
+   "given": "9/12",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.9
+  }
+ ]
+}
