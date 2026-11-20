@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-24-44-422Z-5gnc",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 4,
+ "levelTitle": "Make 10",
+ "startedAt": "2026-11-20T02:24:02.033Z",
+ "endedAt": "2026-11-20T02:24:44.422Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 35,
+ "questions": [
+  {
+   "type": "How many more dots to fill the ten frame?",
+   "n": 1,
+   "prompt": "How many more dots to fill the ten frame?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "type": "Which two numbers make #?",
+   "n": 2,
+   "prompt": "Which two numbers make 10?",
+   "answer": "2 and 8",
+   "given": "2 and 8",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "type": "# + ? = #",
+   "n": 3,
+   "prompt": "7 + ? = 10",
+   "answer": "3",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "type": "# + ? = #",
+   "n": 4,
+   "prompt": "2 + ? = 10",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  },
+  {
+   "type": "Which two numbers make #?",
+   "n": 5,
+   "prompt": "Which two numbers make 10?",
+   "answer": "8 and 2",
+   "given": "8 and 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.4
+  },
+  {
+   "type": "How many more dots to fill the ten frame?",
+   "n": 6,
+   "prompt": "How many more dots to fill the ten frame?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.3
+  },
+  {
+   "type": "Which two numbers make #?",
+   "n": 7,
+   "prompt": "Which two numbers make 10?",
+   "answer": "3 and 7",
+   "given": "3 and 7",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.1
+  },
+  {
+   "type": "How many more dots to fill the ten frame?",
+   "n": 8,
+   "prompt": "How many more dots to fill the ten frame?",
+   "answer": "2",
+   "given": "2",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  },
+  {
+   "type": "# + ? = #",
+   "n": 9,
+   "prompt": "1 + ? = 10",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  },
+  {
+   "type": "How many more dots to fill the ten frame?",
+   "n": 10,
+   "prompt": "How many more dots to fill the ten frame?",
+   "answer": "1",
+   "given": "1",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.2
+  }
+ ]
+}
