@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-54-11-083Z-k4wt",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 6,
+ "levelTitle": "Take Away to 20 (Hard)",
+ "startedAt": "2026-11-20T20:51:05.166Z",
+ "endedAt": "2026-11-20T20:54:11.083Z",
+ "completed": true,
+ "correct": 4,
+ "total": 10,
+ "stars": 0,
+ "hints": 3,
+ "seconds": 156,
+ "questions": [
+  {
+   "type": "# − # = ?",
+   "n": 1,
+   "prompt": "71 − 60 = ?",
+   "answer": "11",
+   "given": "11",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.6
+  },
+  {
+   "type": "# − # = ?",
+   "n": 2,
+   "prompt": "61 − 7 = ?",
+   "answer": "54",
+   "given": "52",
+   "correct": false,
+   "hint": false,
+   "seconds": 13
+  },
+  {
+   "type": "# − # = ?",
+   "n": 3,
+   "prompt": "69 − 50 = ?",
+   "answer": "19",
+   "given": "10",
+   "correct": false,
+   "hint": false,
+   "seconds": 21.9
+  },
+  {
+   "type": "# − # = ?",
+   "n": 4,
+   "prompt": "24 − 6 = ?",
+   "answer": "18",
+   "given": "1",
+   "correct": false,
+   "hint": true,
+   "seconds": 26.4
+  },
+  {
+   "type": "# − # = ?",
+   "n": 5,
+   "prompt": "93 − 5 = ?",
+   "answer": "88",
+   "given": "82",
+   "correct": false,
+   "hint": false,
+   "seconds": 11.8
+  },
+  {
+   "type": "# − # = ?",
+   "n": 6,
+   "prompt": "98 − 70 = ?",
+   "answer": "28",
+   "given": "28",
+   "correct": true,
+   "hint": false,
+   "seconds": 19.5
+  },
+  {
+   "type": "# − # = ?",
+   "n": 7,
+   "prompt": "68 − 50 = ?",
+   "answer": "18",
+   "given": "51",
+   "correct": false,
+   "hint": false,
+   "seconds": 14.2
+  },
+  {
+   "type": "# − # = ?",
+   "n": 8,
+   "prompt": "61 − 6 = ?",
+   "answer": "55",
+   "given": "55",
+   "correct": true,
+   "hint": true,
+   "seconds": 22.7
+  },
+  {
+   "type": "# − # = ?",
+   "n": 9,
+   "prompt": "43 − 20 = ?",
+   "answer": "23",
+   "given": "17",
+   "correct": false,
+   "hint": true,
+   "seconds": 13.9
+  },
+  {
+   "type": "# − # = ?",
+   "n": 10,
+   "prompt": "25 − 7 = ?",
+   "answer": "18",
+   "given": "18",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.7
+  }
+ ],
+ "mode": "hard"
+}
