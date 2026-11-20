@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T21-26-53-354Z-etvu",
+ "player": "p2",
+ "topic": "tens",
+ "level": 3,
+ "levelTitle": "Skip Counting",
+ "startedAt": "2026-11-20T21:25:01.552Z",
+ "endedAt": "2026-11-20T21:26:53.354Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 102,
+ "questions": [
+  {
+   "type": "#, #, #, ?",
+   "n": 1,
+   "prompt": "40, 50, 60, ?",
+   "answer": "70",
+   "given": "70",
+   "correct": true,
+   "hint": false,
+   "seconds": 16.6
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 2,
+   "prompt": "14, 16, 18, ?",
+   "answer": "20",
+   "given": "20",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.2
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 3,
+   "prompt": "55, 60, 65, ?",
+   "answer": "70",
+   "given": "70",
+   "correct": true,
+   "hint": false,
+   "seconds": 6
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 4,
+   "prompt": "63, 73, 83, ?",
+   "answer": "93",
+   "given": "93",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.9
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 5,
+   "prompt": "10, 15, 20, ?",
+   "answer": "25",
+   "given": "25",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.5
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 6,
+   "prompt": "36, 38, 40, ?",
+   "answer": "42",
+   "given": "42",
+   "correct": true,
+   "hint": false,
+   "seconds": 6
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 7,
+   "prompt": "10, 20, 30, ?",
+   "answer": "40",
+   "given": "40",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.2
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 8,
+   "prompt": "64, 74, 84, ?",
+   "answer": "94",
+   "given": "94",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.4
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 9,
+   "prompt": "20, 22, 24, ?",
+   "answer": "26",
+   "given": "26",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.9
+  },
+  {
+   "type": "#, #, #, ?",
+   "n": 10,
+   "prompt": "4, 14, 24, ?",
+   "answer": "34",
+   "given": "34",
+   "correct": true,
+   "hint": false,
+   "seconds": 26.8
+  }
+ ]
+}
