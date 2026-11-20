@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-26-14-759Z-h89n",
+ "player": "p2",
+ "topic": "read",
+ "level": 3,
+ "levelTitle": "Rhymes",
+ "startedAt": "2026-11-20T20:25:14.111Z",
+ "endedAt": "2026-11-20T20:26:14.759Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 53,
+ "questions": [
+  {
+   "type": "Which word rhymes with ten?",
+   "n": 1,
+   "prompt": "Which word rhymes with ten?",
+   "answer": "pen",
+   "given": "pen",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 2,
+   "prompt": "Which word does not rhyme?",
+   "answer": "sun",
+   "given": "sun",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 3,
+   "prompt": "Which word does not rhyme?",
+   "answer": "dog",
+   "given": "dog",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "type": "Which word rhymes with dot?",
+   "n": 4,
+   "prompt": "Which word rhymes with dot?",
+   "answer": "hot",
+   "given": "net",
+   "correct": false,
+   "hint": false,
+   "seconds": 6
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 5,
+   "prompt": "Which word does not rhyme?",
+   "answer": "net",
+   "given": "net",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.2
+  },
+  {
+   "type": "Which word rhymes with wet?",
+   "n": 6,
+   "prompt": "Which word rhymes with wet?",
+   "answer": "net",
+   "given": "net",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.6
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 7,
+   "prompt": "Which word does not rhyme?",
+   "answer": "pan",
+   "given": "pan",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.4
+  },
+  {
+   "type": "Which word rhymes with cat?",
+   "n": 8,
+   "prompt": "Which word rhymes with cat?",
+   "answer": "hat",
+   "given": "hat",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.2
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 9,
+   "prompt": "Which word does not rhyme?",
+   "answer": "bin",
+   "given": "bin",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "Which word rhymes with bat?",
+   "n": 10,
+   "prompt": "Which word rhymes with bat?",
+   "answer": "rat",
+   "given": "rat",
+   "correct": true,
+   "hint": false,
+   "seconds": 6
+  }
+ ]
+}
