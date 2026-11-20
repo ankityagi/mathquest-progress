@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-25-50-353Z-h7w6",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 5,
+ "levelTitle": "Add to 20",
+ "startedAt": "2026-11-20T02:24:47.045Z",
+ "endedAt": "2026-11-20T02:25:50.353Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 56,
+ "questions": [
+  {
+   "type": "# + # = ?",
+   "n": 1,
+   "prompt": "8 + 8 = ?",
+   "answer": "16",
+   "given": "16",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.7
+  },
+  {
+   "type": "# + # = ?",
+   "n": 2,
+   "prompt": "5 + 6 = ?",
+   "answer": "11",
+   "given": "11",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "type": "# + # = ?",
+   "n": 3,
+   "prompt": "10 + 9 = ?",
+   "answer": "19",
+   "given": "19",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.9
+  },
+  {
+   "type": "# + # = ?",
+   "n": 4,
+   "prompt": "3 + 10 = ?",
+   "answer": "13",
+   "given": "13",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  },
+  {
+   "type": "# + # = ?",
+   "n": 5,
+   "prompt": "5 + 5 = ?",
+   "answer": "10",
+   "given": "10",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "type": "# + # = ?",
+   "n": 6,
+   "prompt": "6 + 7 = ?",
+   "answer": "13",
+   "given": "14",
+   "correct": false,
+   "hint": false,
+   "seconds": 14.2
+  },
+  {
+   "type": "# + # = ?",
+   "n": 7,
+   "prompt": "9 + 6 = ?",
+   "answer": "15",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.6
+  },
+  {
+   "type": "# + # = ?",
+   "n": 8,
+   "prompt": "4 + 10 = ?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9
+  },
+  {
+   "type": "# + # = ?",
+   "n": 9,
+   "prompt": "8 + 9 = ?",
+   "answer": "17",
+   "given": "17",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.7
+  },
+  {
+   "type": "# + # = ?",
+   "n": 10,
+   "prompt": "8 + 10 = ?",
+   "answer": "18",
+   "given": "18",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9
+  }
+ ]
+}
