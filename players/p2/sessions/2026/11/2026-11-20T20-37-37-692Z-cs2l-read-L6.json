@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-37-37-692Z-cs2l",
+ "player": "p2",
+ "topic": "read",
+ "level": 6,
+ "levelTitle": "Sight Words 1",
+ "startedAt": "2026-11-20T20:36:59.919Z",
+ "endedAt": "2026-11-20T20:37:37.692Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 32,
+ "questions": [
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 1,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "you",
+   "given": "you",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.6
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 2,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "it",
+   "given": "it",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.9
+  },
+  {
+   "type": "Find the word you. Check every letter.",
+   "n": 3,
+   "prompt": "Find the word you. Check every letter.",
+   "answer": "you",
+   "given": "you",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 4,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "here",
+   "given": "here",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "Find the word see. Check every letter.",
+   "n": 5,
+   "prompt": "Find the word see. Check every letter.",
+   "answer": "see",
+   "given": "see",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 6,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "up",
+   "given": "up",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 7,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "red",
+   "given": "red",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.7
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 8,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "big",
+   "given": "big",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "type": "Find the word one. Check every letter.",
+   "n": 9,
+   "prompt": "Find the word one. Check every letter.",
+   "answer": "one",
+   "given": "one",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 10,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "play",
+   "given": "play",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.4
+  }
+ ]
+}
