@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-58-43-553Z-vcnd",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 10,
+ "levelTitle": "Boss Level",
+ "startedAt": "2026-11-20T20:57:23.447Z",
+ "endedAt": "2026-11-20T20:58:43.553Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 72,
+ "questions": [
+  {
+   "type": "Which one is the same as # + #?",
+   "n": 1,
+   "prompt": "Which one is the same as 4 + 9?",
+   "answer": "1 + 12",
+   "given": "1 + 12",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.9
+  },
+  {
+   "type": "? + # = #",
+   "n": 2,
+   "prompt": "? + 9 = 16",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.7
+  },
+  {
+   "type": "# + # = ?",
+   "n": 3,
+   "prompt": "9 + 3 = ?",
+   "answer": "12",
+   "given": "12",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.6
+  },
+  {
+   "type": "There are # ducks in the pond. # fly away. How many ducks are still in the pond?",
+   "n": 4,
+   "prompt": "There are 10 ducks in the pond. 7 fly away. How many ducks are still in the pond?",
+   "answer": "3",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.7
+  },
+  {
+   "type": "# + ? = #",
+   "n": 5,
+   "prompt": "6 + ? = 15",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.2
+  },
+  {
+   "type": "# + # = ?",
+   "n": 6,
+   "prompt": "10 + 5 = ?",
+   "answer": "15",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.6
+  },
+  {
+   "type": "Kid has # stickers. Brother has # stickers. How many more stickers does Brother have?",
+   "n": 7,
+   "prompt": "Kid has 7 stickers. Brother has 11 stickers. How many more stickers does Brother have?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.7
+  },
+  {
+   "type": "Is this true or false?# + # = # + #",
+   "n": 8,
+   "prompt": "Is this true or false?7 + 3 = 6 + 4",
+   "answer": "True",
+   "given": "True",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.7
+  },
+  {
+   "type": "# + # = ?",
+   "n": 9,
+   "prompt": "10 + 4 = ?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  },
+  {
+   "type": "# − ? = #",
+   "n": 10,
+   "prompt": "16 − ? = 10",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.2
+  }
+ ]
+}
