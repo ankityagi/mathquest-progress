@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-23-59-218Z-0glv",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 3,
+ "levelTitle": "Take Away",
+ "startedAt": "2026-11-20T02:23:24.816Z",
+ "endedAt": "2026-11-20T02:23:59.218Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 28,
+ "questions": [
+  {
+   "type": "# − # = ?",
+   "n": 1,
+   "prompt": "10 − 4 = ?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "# − # = ?",
+   "n": 2,
+   "prompt": "10 − 10 = ?",
+   "answer": "0",
+   "given": "0",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.4
+  },
+  {
+   "type": "There were # cars. # are crossed out. How many are left?",
+   "n": 3,
+   "prompt": "There were 6 cars. 2 are crossed out. How many are left?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.5
+  },
+  {
+   "type": "There were # stars. # are crossed out. How many are left?",
+   "n": 4,
+   "prompt": "There were 9 stars. 1 are crossed out. How many are left?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  },
+  {
+   "type": "# − # = ?",
+   "n": 5,
+   "prompt": "5 − 4 = ?",
+   "answer": "1",
+   "given": "1",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.1
+  },
+  {
+   "type": "# − # = ?",
+   "n": 6,
+   "prompt": "3 − 3 = ?",
+   "answer": "0",
+   "given": "0",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.2
+  },
+  {
+   "type": "There were # balloons. # are crossed out. How many are left?",
+   "n": 7,
+   "prompt": "There were 8 balloons. 6 are crossed out. How many are left?",
+   "answer": "2",
+   "given": "2",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  },
+  {
+   "type": "# − # = ?",
+   "n": 8,
+   "prompt": "9 − 5 = ?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "type": "# − # = ?",
+   "n": 9,
+   "prompt": "5 − 5 = ?",
+   "answer": "0",
+   "given": "0",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "type": "# − # = ?",
+   "n": 10,
+   "prompt": "8 − 8 = ?",
+   "answer": "0",
+   "given": "0",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.5
+  }
+ ]
+}
