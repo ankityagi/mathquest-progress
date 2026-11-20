@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-41-19-799Z-38ns",
+ "player": "p2",
+ "topic": "read",
+ "level": 10,
+ "levelTitle": "Boss Level",
+ "startedAt": "2026-11-20T20:40:34.213Z",
+ "endedAt": "2026-11-20T20:41:19.799Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 40,
+ "questions": [
+  {
+   "type": "Which letter does it start with?",
+   "n": 1,
+   "prompt": "Which letter does it start with?",
+   "answer": "r",
+   "given": "r",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.7
+  },
+  {
+   "type": "Which word matches the picture?",
+   "n": 2,
+   "prompt": "Which word matches the picture?",
+   "answer": "bus",
+   "given": "bus",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.8
+  },
+  {
+   "type": "Can _ pig fit in _ cup?",
+   "n": 3,
+   "prompt": "Can a pig fit in a cup?",
+   "answer": "No",
+   "given": "No",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.5
+  },
+  {
+   "type": "_ ? _",
+   "n": 4,
+   "prompt": "b ? t",
+   "answer": "a",
+   "given": "a",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.3
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 5,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "where",
+   "given": "where",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "Which word rhymes with log?",
+   "n": 6,
+   "prompt": "Which word rhymes with log?",
+   "answer": "dog",
+   "given": "dog",
+   "correct": true,
+   "hint": false,
+   "seconds": 8
+  },
+  {
+   "type": "The pig is in the log.Which picture matches?",
+   "n": 7,
+   "prompt": "The pig is in the log.Which picture matches?",
+   "answer": "🐷🪵",
+   "given": "🐷🪵",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1
+  },
+  {
+   "type": "_ write with _ ___.Which word fits?",
+   "n": 8,
+   "prompt": "I write with a ___.Which word fits?",
+   "answer": "pen",
+   "given": "pen",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "n": 9,
+   "prompt": "Listen, then tap the word you hear. Tap 🔊 to hear it again.",
+   "answer": "went",
+   "given": "went",
+   "correct": true,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "type": "Which word does not rhyme?",
+   "n": 10,
+   "prompt": "Which word does not rhyme?",
+   "answer": "hen",
+   "given": "hen",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.8
+  }
+ ]
+}
