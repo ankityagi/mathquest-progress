@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-30-10-152Z-hmb3",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 1,
+ "levelTitle": "Name the Shape (Hard)",
+ "startedAt": "2026-11-20T20:29:37.768Z",
+ "endedAt": "2026-11-20T20:30:10.152Z",
+ "completed": true,
+ "correct": 8,
+ "total": 10,
+ "stars": 1,
+ "hints": 0,
+ "seconds": 25,
+ "questions": [
+  {
+   "type": "Which one is not _ hexagon?",
+   "n": 1,
+   "prompt": "Which one is not a hexagon?",
+   "answer": "picture 2",
+   "given": "picture 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "type": "What shape is this? Look closely.",
+   "n": 2,
+   "prompt": "What shape is this? Look closely.",
+   "answer": "trapezoid",
+   "given": "rhombus",
+   "correct": false,
+   "hint": false,
+   "seconds": 2.4
+  },
+  {
+   "type": "Which one is not _ trapezoid?",
+   "n": 3,
+   "prompt": "Which one is not a trapezoid?",
+   "answer": "picture 2",
+   "given": "picture 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9
+  },
+  {
+   "type": "What shape is this? Look closely.",
+   "n": 4,
+   "prompt": "What shape is this? Look closely.",
+   "answer": "rhombus",
+   "given": "rhombus",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9
+  },
+  {
+   "type": "Which one is not _ circle?",
+   "n": 5,
+   "prompt": "Which one is not a circle?",
+   "answer": "picture 3",
+   "given": "picture 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.1
+  },
+  {
+   "type": "What shape is this? Look closely.",
+   "n": 6,
+   "prompt": "What shape is this? Look closely.",
+   "answer": "rectangle",
+   "given": "rectangle",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.2
+  },
+  {
+   "type": "What shape is this? Look closely.",
+   "n": 7,
+   "prompt": "What shape is this? Look closely.",
+   "answer": "rectangle",
+   "given": "rectangle",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "Which one is not _ trapezoid?",
+   "n": 8,
+   "prompt": "Which one is not a trapezoid?",
+   "answer": "picture 2",
+   "given": "picture 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "type": "Which one is not _ triangle?",
+   "n": 9,
+   "prompt": "Which one is not a triangle?",
+   "answer": "picture 3",
+   "given": "picture 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.6
+  },
+  {
+   "type": "What shape is this? Look closely.",
+   "n": 10,
+   "prompt": "What shape is this? Look closely.",
+   "answer": "trapezoid",
+   "given": "rhombus",
+   "correct": false,
+   "hint": false,
+   "seconds": 2.3
+  }
+ ],
+ "mode": "hard"
+}
