@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-28-28-633Z-j91g",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 6,
+ "levelTitle": "Take Away to 20",
+ "startedAt": "2026-11-20T02:26:48.202Z",
+ "endedAt": "2026-11-20T02:28:28.633Z",
+ "completed": false,
+ "correct": 2,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 24,
+ "questions": [
+  {
+   "type": "# − # = ?",
+   "n": 1,
+   "prompt": "17 − 10 = ?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 5
+  },
+  {
+   "type": "# − # = ?",
+   "n": 2,
+   "prompt": "17 − 9 = ?",
+   "answer": "8",
+   "given": "11",
+   "correct": false,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "type": "If # + # = #, then# − # = ?",
+   "n": 3,
+   "prompt": "If 5 + 5 = 10, then10 − 5 = ?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.6
+  }
+ ]
+}
