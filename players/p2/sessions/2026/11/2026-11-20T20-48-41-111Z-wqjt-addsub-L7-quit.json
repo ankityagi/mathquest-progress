@@ -1,0 +1,58 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-48-41-111Z-wqjt",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 7,
+ "levelTitle": "Missing Number",
+ "startedAt": "2026-11-20T20:47:55.564Z",
+ "endedAt": "2026-11-20T20:48:41.111Z",
+ "completed": false,
+ "correct": 3,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 36,
+ "questions": [
+  {
+   "type": "? + # = #",
+   "n": 1,
+   "prompt": "? + 3 = 6",
+   "answer": "3",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.3
+  },
+  {
+   "type": "# − ? = #",
+   "n": 2,
+   "prompt": "20 − ? = 6",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.7
+  },
+  {
+   "type": "# + ? = #",
+   "n": 3,
+   "prompt": "4 + ? = 18",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.3
+  },
+  {
+   "type": "? − # = #",
+   "n": 4,
+   "prompt": "? − 4 = 3",
+   "answer": "7",
+   "given": "1",
+   "correct": false,
+   "hint": false,
+   "seconds": 3.3
+  }
+ ]
+}
