@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-51-45-607Z-0yl7",
+ "player": "p2",
+ "topic": "tens",
+ "level": 1,
+ "levelTitle": "Count It",
+ "startedAt": "2026-11-20T02:50:34.679Z",
+ "endedAt": "2026-11-20T02:51:45.607Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 62,
+ "questions": [
+  {
+   "type": "Which number is sixteen?",
+   "n": 1,
+   "prompt": "Which number is sixteen?",
+   "answer": "16",
+   "given": "16",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "How many balls?",
+   "n": 2,
+   "prompt": "How many balls?",
+   "answer": "19",
+   "given": "19",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.8
+  },
+  {
+   "type": "Which number is twelve?",
+   "n": 3,
+   "prompt": "Which number is twelve?",
+   "answer": "12",
+   "given": "12",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.3
+  },
+  {
+   "type": "How many ladybugs?",
+   "n": 4,
+   "prompt": "How many ladybugs?",
+   "answer": "11",
+   "given": "11",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.2
+  },
+  {
+   "type": "How many fish?",
+   "n": 5,
+   "prompt": "How many fish?",
+   "answer": "10",
+   "given": "10",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.9
+  },
+  {
+   "type": "Which number is nineteen?",
+   "n": 6,
+   "prompt": "Which number is nineteen?",
+   "answer": "19",
+   "given": "19",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "Which number is twenty?",
+   "n": 7,
+   "prompt": "Which number is twenty?",
+   "answer": "20",
+   "given": "20",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.5
+  },
+  {
+   "type": "How many apples?",
+   "n": 8,
+   "prompt": "How many apples?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.1
+  },
+  {
+   "type": "How many ladybugs?",
+   "n": 9,
+   "prompt": "How many ladybugs?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 15
+  },
+  {
+   "type": "Which number is thirteen?",
+   "n": 10,
+   "prompt": "Which number is thirteen?",
+   "answer": "13",
+   "given": "13",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.5
+  }
+ ]
+}
