@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-20-03-344Z-9wf5",
+ "player": "p1",
+ "topic": "measurement",
+ "level": 1,
+ "levelTitle": "Area Warm-Up",
+ "startedAt": "2026-11-20T02:17:20.565Z",
+ "endedAt": "2026-11-20T02:20:03.344Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 146,
+ "questions": [
+  {
+   "n": 1,
+   "type": "This shape is a square. Only one side is labelled. Find its area.",
+   "prompt": "This shape is a square. Only one side is labelled. Find its area.",
+   "answer": "64 sq m",
+   "given": "32",
+   "correct": false,
+   "hint": false,
+   "seconds": 9.4
+  },
+  {
+   "n": 2,
+   "type": "A poster is # in long and # in wide. What is its area?",
+   "prompt": "A poster is 14 in long and 10 in wide. What is its area?",
+   "answer": "140 sq in",
+   "given": "140",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.6
+  },
+  {
+   "n": 3,
+   "type": "Find the area of this rectangle.",
+   "prompt": "Find the area of this rectangle.",
+   "answer": "168 sq cm",
+   "given": "168",
+   "correct": true,
+   "hint": false,
+   "seconds": 33
+  },
+  {
+   "n": 4,
+   "type": "A bathroom floor is covered with square tiles. The floor is # tiles long and # tiles wide.",
+   "prompt": "A bathroom floor is covered with square tiles. The floor is 10 tiles long and 6 tiles wide. How many tiles are there?",
+   "answer": "60 tiles",
+   "given": "60",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.5
+  },
+  {
+   "n": 5,
+   "type": "This shape is a square. Only one side is labelled. Find its area.",
+   "prompt": "This shape is a square. Only one side is labelled. Find its area.",
+   "answer": "81 sq m",
+   "given": "81",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.5
+  },
+  {
+   "n": 6,
+   "type": "A bathroom floor is covered with square tiles. The floor is # tiles long and # tiles wide.",
+   "prompt": "A bathroom floor is covered with square tiles. The floor is 12 tiles long and 6 tiles wide. How many tiles are there?",
+   "answer": "72 tiles",
+   "given": "72",
+   "correct": true,
+   "hint": false,
+   "seconds": 15.6
+  },
+  {
+   "n": 7,
+   "type": "Find the area of this rectangle.",
+   "prompt": "Find the area of this rectangle.",
+   "answer": "120 sq in",
+   "given": "120",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "n": 8,
+   "type": "A poster is # in long and # in wide. What is its area?",
+   "prompt": "A poster is 12 in long and 12 in wide. What is its area?",
+   "answer": "144 sq in",
+   "given": "144",
+   "correct": true,
+   "hint": false,
+   "seconds": 50.5
+  },
+  {
+   "n": 9,
+   "type": "This shape is a square. Only one side is labelled. Find its area.",
+   "prompt": "This shape is a square. Only one side is labelled. Find its area.",
+   "answer": "64 sq cm",
+   "given": "64",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.6
+  },
+  {
+   "n": 10,
+   "type": "Find the area of this rectangle.",
+   "prompt": "Find the area of this rectangle.",
+   "answer": "70 sq m",
+   "given": "70",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.7
+  }
+ ]
+}
