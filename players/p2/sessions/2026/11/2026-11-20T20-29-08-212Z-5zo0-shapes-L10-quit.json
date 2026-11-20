@@ -1,0 +1,28 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-29-08-212Z-5zo0",
+ "player": "p2",
+ "topic": "shapes",
+ "level": 10,
+ "levelTitle": "Boss Level",
+ "startedAt": "2026-11-20T20:29:01.256Z",
+ "endedAt": "2026-11-20T20:29:08.212Z",
+ "completed": false,
+ "correct": 1,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 5,
+ "questions": [
+  {
+   "type": "How many sides does this shape have?",
+   "n": 1,
+   "prompt": "How many sides does this shape have?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  }
+ ]
+}
