@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T20-39-46-444Z-gw6j",
+ "player": "p2",
+ "topic": "read",
+ "level": 9,
+ "levelTitle": "Read a Sentence",
+ "startedAt": "2026-11-20T20:38:54.686Z",
+ "endedAt": "2026-11-20T20:39:46.444Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 41,
+ "questions": [
+  {
+   "type": "The hen is in the log.Which picture matches?",
+   "n": 1,
+   "prompt": "The hen is in the log.Which picture matches?",
+   "answer": "🐔🪵",
+   "given": "🐔🪵",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.1
+  },
+  {
+   "type": "Can _ fish swim?",
+   "n": 2,
+   "prompt": "Can a fish swim?",
+   "answer": "Yes",
+   "given": "Yes",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "type": "_ ___ has six legs.Which word fits?",
+   "n": 3,
+   "prompt": "A ___ has six legs.Which word fits?",
+   "answer": "bug",
+   "given": "bug",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "type": "Is the sun hot?",
+   "n": 4,
+   "prompt": "Is the sun hot?",
+   "answer": "Yes",
+   "given": "Yes",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8
+  },
+  {
+   "type": "The ___ can bark.Which word fits?",
+   "n": 5,
+   "prompt": "The ___ can bark.Which word fits?",
+   "answer": "dog",
+   "given": "dog",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.7
+  },
+  {
+   "type": "The dog is in the log.Which picture matches?",
+   "n": 6,
+   "prompt": "The dog is in the log.Which picture matches?",
+   "answer": "🐶🪵",
+   "given": "🐶🪵",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.1
+  },
+  {
+   "type": "Is _ bug as big as _ van?",
+   "n": 7,
+   "prompt": "Is a bug as big as a van?",
+   "answer": "No",
+   "given": "No",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.8
+  },
+  {
+   "type": "_ ___ says oink.Which word fits?",
+   "n": 8,
+   "prompt": "A ___ says oink.Which word fits?",
+   "answer": "pig",
+   "given": "pig",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.6
+  },
+  {
+   "type": "The cat is in the tub.Which picture matches?",
+   "n": 9,
+   "prompt": "The cat is in the tub.Which picture matches?",
+   "answer": "🐱🛁",
+   "given": "🐱🛁",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.4
+  },
+  {
+   "type": "Can _ pig fit in _ cup?",
+   "n": 10,
+   "prompt": "Can a pig fit in a cup?",
+   "answer": "No",
+   "given": "No",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.5
+  }
+ ]
+}
