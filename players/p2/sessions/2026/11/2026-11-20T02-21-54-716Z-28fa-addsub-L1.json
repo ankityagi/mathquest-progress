@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-20T02-21-54-716Z-28fa",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 1,
+ "levelTitle": "Count and Add",
+ "startedAt": "2026-11-20T02:21:01.933Z",
+ "endedAt": "2026-11-20T02:21:54.716Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 46,
+ "questions": [
+  {
+   "type": "Kid has # cars. He gets # more. How many now?",
+   "n": 1,
+   "prompt": "Kid has 3 cars. He gets 3 more. How many now?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.5
+  },
+  {
+   "type": "Which number sentence matches the pictures?",
+   "n": 2,
+   "prompt": "Which number sentence matches the pictures?",
+   "answer": "3 + 2",
+   "given": "3 + 2",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "type": "How many fish in all?",
+   "n": 3,
+   "prompt": "How many fish in all?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.2
+  },
+  {
+   "type": "How many fish in all?",
+   "n": 4,
+   "prompt": "How many fish in all?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "type": "Kid has # cookies. He gets # more. How many now?",
+   "n": 5,
+   "prompt": "Kid has 2 cookies. He gets 7 more. How many now?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.1
+  },
+  {
+   "type": "Which number sentence matches the pictures?",
+   "n": 6,
+   "prompt": "Which number sentence matches the pictures?",
+   "answer": "3 + 1",
+   "given": "3 + 1",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.7
+  },
+  {
+   "type": "How many cars in all?",
+   "n": 7,
+   "prompt": "How many cars in all?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Which number sentence matches the pictures?",
+   "n": 8,
+   "prompt": "Which number sentence matches the pictures?",
+   "answer": "3 + 3",
+   "given": "3 + 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 1.9
+  },
+  {
+   "type": "Kid has # balls. He gets # more. How many now?",
+   "n": 9,
+   "prompt": "Kid has 4 balls. He gets 1 more. How many now?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "type": "How many cars in all?",
+   "n": 10,
+   "prompt": "How many cars in all?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.5
+  }
+ ]
+}
