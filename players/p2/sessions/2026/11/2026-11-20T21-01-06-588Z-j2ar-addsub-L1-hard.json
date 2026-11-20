@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "id": "2026-11-20T21-01-06-588Z-j2ar",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 1,
+ "levelTitle": "Count and Add (Hard)",
+ "startedAt": "2026-11-20T20:59:06.858Z",
+ "endedAt": "2026-11-20T21:01:06.588Z",
+ "completed": true,
+ "correct": 8,
+ "total": 10,
+ "stars": 1,
+ "hints": 0,
+ "seconds": 105,
+ "questions": [
+  {
+   "type": "Kid has # balls. Brother has #. How many do they have together?",
+   "n": 1,
+   "prompt": "Kid has 7 balls. Brother has 8. How many do they have together?",
+   "answer": "15",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 19.9
+  },
+  {
+   "type": "How many ladybugs in all?",
+   "n": 2,
+   "prompt": "How many ladybugs in all?",
+   "answer": "14",
+   "given": "15",
+   "correct": false,
+   "hint": false,
+   "seconds": 12
+  },
+  {
+   "type": "How many fish in all?",
+   "n": 3,
+   "prompt": "How many fish in all?",
+   "answer": "12",
+   "given": "12",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.1
+  },
+  {
+   "type": "Kid has # ladybugs. Brother has #. How many do they have together?",
+   "n": 4,
+   "prompt": "Kid has 10 ladybugs. Brother has 4. How many do they have together?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.8
+  },
+  {
+   "type": "Kid has # cookies. Brother has #. How many do they have together?",
+   "n": 5,
+   "prompt": "Kid has 10 cookies. Brother has 4. How many do they have together?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.4
+  },
+  {
+   "type": "How many ladybugs in all?",
+   "n": 6,
+   "prompt": "How many ladybugs in all?",
+   "answer": "15",
+   "given": "16",
+   "correct": false,
+   "hint": false,
+   "seconds": 12.3
+  },
+  {
+   "type": "How many stars in all?",
+   "n": 7,
+   "prompt": "How many stars in all?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.8
+  },
+  {
+   "type": "Kid has # stars. Brother has #. How many do they have together?",
+   "n": 8,
+   "prompt": "Kid has 9 stars. Brother has 8. How many do they have together?",
+   "answer": "17",
+   "given": "17",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.5
+  },
+  {
+   "type": "How many balls in all?",
+   "n": 9,
+   "prompt": "How many balls in all?",
+   "answer": "10",
+   "given": "10",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.9
+  },
+  {
+   "type": "Kid has # cookies. Brother has #. How many do they have together?",
+   "n": 10,
+   "prompt": "Kid has 9 cookies. Brother has 8. How many do they have together?",
+   "answer": "17",
+   "given": "17",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.2
+  }
+ ],
+ "mode": "hard"
+}
