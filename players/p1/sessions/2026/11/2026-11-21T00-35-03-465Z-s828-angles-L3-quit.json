@@ -1,0 +1,28 @@
+{
+ "v": 1,
+ "id": "2026-11-21T00-35-03-465Z-s828",
+ "player": "p1",
+ "topic": "angles",
+ "level": 3,
+ "levelTitle": "Turns & Clocks",
+ "startedAt": "2026-11-21T00:33:54.943Z",
+ "endedAt": "2026-11-21T00:35:03.465Z",
+ "completed": false,
+ "correct": 1,
+ "total": 10,
+ "stars": 0,
+ "hints": 1,
+ "seconds": 35,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Viraj faces north. He turns # quarter turns counter-clockwise. How many degrees did he tur",
+   "prompt": "Viraj faces north. He turns 3 quarter turns counter-clockwise. How many degrees did he turn?",
+   "answer": "270 °",
+   "given": "270",
+   "correct": true,
+   "hint": true,
+   "seconds": 35.4
+  }
+ ]
+}
