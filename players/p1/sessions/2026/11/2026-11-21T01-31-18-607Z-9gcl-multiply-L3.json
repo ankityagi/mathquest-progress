@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-21T01-31-18-607Z-9gcl",
+ "player": "p1",
+ "topic": "multiply",
+ "level": 3,
+ "levelTitle": "Area Model",
+ "startedAt": "2026-11-21T01:02:09.880Z",
+ "endedAt": "2026-11-21T01:31:18.607Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 975,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Use the area model to find # × #.×# ",
+   "prompt": "Use the area model to find 17 × 27.×207 1020070 714049",
+   "answer": "459",
+   "given": "479",
+   "correct": false,
+   "hint": false,
+   "seconds": 74.2
+  },
+  {
+   "n": 2,
+   "type": "Which list shows the four parts of # × #?",
+   "prompt": "Which list shows the four parts of 32 × 22?",
+   "answer": "600, 60, 40, 4",
+   "given": "600, 60, 40, 4",
+   "correct": true,
+   "hint": false,
+   "seconds": 43.5
+  },
+  {
+   "n": 3,
+   "type": "This area model shows # × #. What number goes in the ? box?×# ?",
+   "prompt": "This area model shows 36 × 41. What number goes in the ? box?×401 301,20030 6240?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 50.4
+  },
+  {
+   "n": 4,
+   "type": "Which list shows the four parts of # × #?",
+   "prompt": "Which list shows the four parts of 18 × 25?",
+   "answer": "200, 50, 160, 40",
+   "given": "200, 50, 160, 40",
+   "correct": true,
+   "hint": false,
+   "seconds": 86.6
+  },
+  {
+   "n": 5,
+   "type": "This area model shows # × #. What number goes in the ? box?×# ?#",
+   "prompt": "This area model shows 34 × 35. What number goes in the ? box?×305 30900150 4?20",
+   "answer": "120",
+   "given": "120",
+   "correct": true,
+   "hint": false,
+   "seconds": 32.7
+  },
+  {
+   "n": 6,
+   "type": "Use the area model to find # × #.×# ",
+   "prompt": "Use the area model to find 29 × 29.×209 20400180 918081",
+   "answer": "841",
+   "given": "841",
+   "correct": true,
+   "hint": false,
+   "seconds": 600
+  },
+  {
+   "n": 7,
+   "type": "Which list shows the four parts of # × #?",
+   "prompt": "Which list shows the four parts of 28 × 22?",
+   "answer": "400, 40, 160, 16",
+   "given": "400, 40, 160, 16",
+   "correct": true,
+   "hint": false,
+   "seconds": 44.4
+  },
+  {
+   "n": 8,
+   "type": "This area model shows # × #. What number goes in the ? box?×# ? #",
+   "prompt": "This area model shows 26 × 35. What number goes in the ? box?×305 20600? 618030",
+   "answer": "100",
+   "given": "100",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.7
+  },
+  {
+   "n": 9,
+   "type": "Use the area model to find # × #.×# ",
+   "prompt": "Use the area model to find 31 × 42.×402 301,20060 1402",
+   "answer": "1,302",
+   "given": "1302",
+   "correct": true,
+   "hint": false,
+   "seconds": 23.8
+  },
+  {
+   "n": 10,
+   "type": "This area model shows # × #. What number goes in the ? box?×# ?# ",
+   "prompt": "This area model shows 19 × 35. What number goes in the ? box?×305 10?50 927045",
+   "answer": "300",
+   "given": "300",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.2
+  }
+ ]
+}
