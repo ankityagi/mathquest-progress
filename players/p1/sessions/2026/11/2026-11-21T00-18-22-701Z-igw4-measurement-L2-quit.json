@@ -1,0 +1,38 @@
+{
+ "v": 1,
+ "id": "2026-11-21T00-18-22-701Z-igw4",
+ "player": "p1",
+ "topic": "measurement",
+ "level": 2,
+ "levelTitle": "Fence or Floor?",
+ "startedAt": "2026-11-21T00:16:48.834Z",
+ "endedAt": "2026-11-21T00:18:22.701Z",
+ "completed": false,
+ "correct": 2,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 81,
+ "questions": [
+  {
+   "n": 1,
+   "type": "A square playground has sides that are # m long. Viraj jogs around it once. How far did he",
+   "prompt": "A square playground has sides that are 27 m long. Viraj jogs around it once. How far did he jog?",
+   "answer": "108 m",
+   "given": "108",
+   "correct": true,
+   "hint": false,
+   "seconds": 31
+  },
+  {
+   "n": 2,
+   "type": "Viraj is putting a fence around a rectangular dog run that is # ft long and # ft wide. How",
+   "prompt": "Viraj is putting a fence around a rectangular dog run that is 27 ft long and 16 ft wide. How many feet of fence does he need?",
+   "answer": "86 ft",
+   "given": "86",
+   "correct": true,
+   "hint": false,
+   "seconds": 49.7
+  }
+ ]
+}
