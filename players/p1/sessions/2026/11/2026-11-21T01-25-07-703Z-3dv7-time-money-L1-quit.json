@@ -1,0 +1,78 @@
+{
+ "v": 1,
+ "id": "2026-11-21T01-25-07-703Z-3dv7",
+ "player": "p1",
+ "topic": "time-money",
+ "level": 1,
+ "levelTitle": "Clock Math",
+ "startedAt": "2026-11-21T01:22:48.334Z",
+ "endedAt": "2026-11-21T01:25:07.703Z",
+ "completed": false,
+ "correct": 4,
+ "total": 10,
+ "stars": 0,
+ "hints": 1,
+ "seconds": 133,
+ "questions": [
+  {
+   "n": 1,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 225 minutes long. That is 3 hours and how many minutes?",
+   "answer": "45 min",
+   "given": "45",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.5
+  },
+  {
+   "n": 2,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 4 min 41 s long. How many seconds is that?",
+   "answer": "281 s",
+   "given": "281",
+   "correct": true,
+   "hint": true,
+   "seconds": 19.6
+  },
+  {
+   "n": 3,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "8 hours 22 minutes is how many minutes?",
+   "answer": "502 min",
+   "given": "170",
+   "correct": false,
+   "hint": false,
+   "seconds": 33
+  },
+  {
+   "n": 4,
+   "type": "How many hours are in # days?",
+   "prompt": "How many hours are in 2 days?",
+   "answer": "48 h",
+   "given": "48",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.6
+  },
+  {
+   "n": 5,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 135 minutes long. That is 2 hours and how many minutes?",
+   "answer": "15 min",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.7
+  },
+  {
+   "n": 6,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 12 min 40 s long. How many seconds is that?",
+   "answer": "760 s",
+   "given": "202",
+   "correct": false,
+   "hint": false,
+   "seconds": 46.2
+  }
+ ]
+}
