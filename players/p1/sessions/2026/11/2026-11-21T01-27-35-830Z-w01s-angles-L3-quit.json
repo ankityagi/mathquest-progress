@@ -1,0 +1,78 @@
+{
+ "v": 1,
+ "id": "2026-11-21T01-27-35-830Z-w01s",
+ "player": "p1",
+ "topic": "angles",
+ "level": 3,
+ "levelTitle": "Turns & Clocks",
+ "startedAt": "2026-11-21T01:25:28.730Z",
+ "endedAt": "2026-11-21T01:27:35.830Z",
+ "completed": false,
+ "correct": 4,
+ "total": 10,
+ "stars": 0,
+ "hints": 3,
+ "seconds": 102,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many degrees is a half turn?",
+   "prompt": "How many degrees is a half turn?",
+   "answer": "180 °",
+   "given": "180",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.2
+  },
+  {
+   "n": 2,
+   "type": "A pizza is cut into # equal slices from the centre. What angle is each slice?",
+   "prompt": "A pizza is cut into 4 equal slices from the centre. What angle is each slice?",
+   "answer": "90 °",
+   "given": "90",
+   "correct": true,
+   "hint": true,
+   "seconds": 39.3
+  },
+  {
+   "n": 3,
+   "type": "Viraj faces north. He turns # quarter turns counter-clockwise. How many degrees did he tur",
+   "prompt": "Viraj faces north. He turns 2 quarter turns counter-clockwise. How many degrees did he turn?",
+   "answer": "180 °",
+   "given": "180",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.4
+  },
+  {
+   "n": 4,
+   "type": "What is the angle between the clock hands at #:#?",
+   "prompt": "What is the angle between the clock hands at 2:00?",
+   "answer": "60 °",
+   "given": "1:00",
+   "correct": false,
+   "hint": true,
+   "seconds": 33.4
+  },
+  {
+   "n": 5,
+   "type": "How many degrees is a quarter turn?",
+   "prompt": "How many degrees is a quarter turn?",
+   "answer": "90 °",
+   "given": "90",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.5
+  },
+  {
+   "n": 6,
+   "type": "A pizza is cut into # equal slices from the centre. What angle is each slice?",
+   "prompt": "A pizza is cut into 3 equal slices from the centre. What angle is each slice?",
+   "answer": "120 °",
+   "given": "90",
+   "correct": false,
+   "hint": true,
+   "seconds": 11.1
+  }
+ ]
+}
