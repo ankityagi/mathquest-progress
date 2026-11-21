@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-21T00-38-47-234Z-osca",
+ "player": "p1",
+ "topic": "fractions",
+ "level": 3,
+ "levelTitle": "Simplest Form",
+ "startedAt": "2026-11-21T00:36:53.920Z",
+ "endedAt": "2026-11-21T00:38:47.234Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 1,
+ "seconds": 104,
+ "questions": [
+  {
+   "n": 1,
+   "type": "# is the same as which fraction?",
+   "prompt": "4/8 is the same as which fraction?",
+   "answer": "1/2",
+   "given": "1/2",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.9
+  },
+  {
+   "n": 2,
+   "type": "Write # in simplest form.",
+   "prompt": "Write 8/12 in simplest form.",
+   "answer": "2/3",
+   "given": "2/3",
+   "correct": true,
+   "hint": true,
+   "seconds": 12.2
+  },
+  {
+   "n": 3,
+   "type": "Fill in the missing number: # = #/?",
+   "prompt": "Fill in the missing number: 8/20 = 2/?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.2
+  },
+  {
+   "n": 4,
+   "type": "Write # in simplest form.",
+   "prompt": "Write 4/8 in simplest form.",
+   "answer": "1/2",
+   "given": "2/4",
+   "correct": false,
+   "hint": false,
+   "seconds": 15.9
+  },
+  {
+   "n": 5,
+   "type": "Fill in the missing number: # = #/?",
+   "prompt": "Fill in the missing number: 3/9 = 1/?",
+   "answer": "3",
+   "given": "3",
+   "correct": true,
+   "hint": false,
+   "seconds": 9
+  },
+  {
+   "n": 6,
+   "type": "# is the same as which fraction?",
+   "prompt": "3/6 is the same as which fraction?",
+   "answer": "1/2",
+   "given": "1/2",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.1
+  },
+  {
+   "n": 7,
+   "type": "# is the same as which fraction?",
+   "prompt": "5/10 is the same as which fraction?",
+   "answer": "1/2",
+   "given": "1/2",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.4
+  },
+  {
+   "n": 8,
+   "type": "Fill in the missing number: # = #/?",
+   "prompt": "Fill in the missing number: 6/12 = 2/?",
+   "answer": "4",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "n": 9,
+   "type": "Write # in simplest form.",
+   "prompt": "Write 6/15 in simplest form.",
+   "answer": "2/5",
+   "given": "2/5",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.4
+  },
+  {
+   "n": 10,
+   "type": "Fill in the missing number: # = #/?",
+   "prompt": "Fill in the missing number: 12/15 = 4/?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 7
+  }
+ ]
+}
