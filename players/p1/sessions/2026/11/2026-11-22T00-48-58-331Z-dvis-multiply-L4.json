@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-22T00-48-58-331Z-dvis",
+ "player": "p1",
+ "topic": "multiply",
+ "level": 4,
+ "levelTitle": "Big × Small",
+ "startedAt": "2026-11-22T00:41:28.389Z",
+ "endedAt": "2026-11-22T00:48:58.331Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 446,
+ "questions": [
+  {
+   "n": 1,
+   "type": "A plane flies # miles each trip. How far does it fly in # trips?",
+   "prompt": "A plane flies 206 miles each trip. How far does it fly in 6 trips?",
+   "answer": "1,236 miles",
+   "given": "1236",
+   "correct": true,
+   "hint": false,
+   "seconds": 18.4
+  },
+  {
+   "n": 2,
+   "type": "# × # = ?",
+   "prompt": "2,804 × 4 = ?",
+   "answer": "11,216",
+   "given": "11216",
+   "correct": true,
+   "hint": false,
+   "seconds": 217.1
+  },
+  {
+   "n": 3,
+   "type": "# × # = ?",
+   "prompt": "902 × 5 = ?",
+   "answer": "4,510",
+   "given": "4510",
+   "correct": true,
+   "hint": false,
+   "seconds": 17
+  },
+  {
+   "n": 4,
+   "type": "A plane flies # miles each trip. How far does it fly in # trips?",
+   "prompt": "A plane flies 126 miles each trip. How far does it fly in 4 trips?",
+   "answer": "504 miles",
+   "given": "504",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.2
+  },
+  {
+   "n": 5,
+   "type": "# × # = ?",
+   "prompt": "4,627 × 6 = ?",
+   "answer": "27,762",
+   "given": "27762",
+   "correct": true,
+   "hint": false,
+   "seconds": 42.7
+  },
+  {
+   "n": 6,
+   "type": "# × # = ?",
+   "prompt": "973 × 7 = ?",
+   "answer": "6,811",
+   "given": "6811",
+   "correct": true,
+   "hint": false,
+   "seconds": 25
+  },
+  {
+   "n": 7,
+   "type": "# × # = ?",
+   "prompt": "3,864 × 8 = ?",
+   "answer": "30,912",
+   "given": "30912",
+   "correct": true,
+   "hint": false,
+   "seconds": 36.8
+  },
+  {
+   "n": 8,
+   "type": "A plane flies # miles each trip. How far does it fly in # trips?",
+   "prompt": "A plane flies 419 miles each trip. How far does it fly in 4 trips?",
+   "answer": "1,676 miles",
+   "given": "1676",
+   "correct": true,
+   "hint": false,
+   "seconds": 25
+  },
+  {
+   "n": 9,
+   "type": "# × # = ?",
+   "prompt": "639 × 6 = ?",
+   "answer": "3,834",
+   "given": "3834",
+   "correct": true,
+   "hint": false,
+   "seconds": 26.9
+  },
+  {
+   "n": 10,
+   "type": "# × # = ?",
+   "prompt": "560 × 9 = ?",
+   "answer": "5,040",
+   "given": "5040",
+   "correct": true,
+   "hint": false,
+   "seconds": 19.6
+  }
+ ]
+}
