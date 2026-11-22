@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "id": "2026-11-22T00-44-47-644Z-qeeo",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 10,
+ "levelTitle": "Boss Level (Hard)",
+ "startedAt": "2026-11-22T00:40:13.560Z",
+ "endedAt": "2026-11-22T00:44:47.644Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 264,
+ "questions": [
+  {
+   "type": "# + # + # + # = ?",
+   "n": 1,
+   "prompt": "1 + 8 + 2 + 9 = ?",
+   "answer": "20",
+   "given": "20",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.7
+  },
+  {
+   "type": "Kid has # stickers. He gets # more, then gives # to Brother. How many does Kid have now?",
+   "n": 2,
+   "prompt": "Kid has 13 stickers. He gets 7 more, then gives 6 to Brother. How many does Kid have now?",
+   "answer": "14",
+   "given": "14",
+   "correct": true,
+   "hint": false,
+   "seconds": 28.2
+  },
+  {
+   "type": "? − # = #",
+   "n": 3,
+   "prompt": "? − 20 = 27",
+   "answer": "47",
+   "given": "47",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.6
+  },
+  {
+   "type": "There were # ducks. # flew away. How many are left?",
+   "n": 4,
+   "prompt": "There were 48 ducks. 15 flew away. How many are left?",
+   "answer": "33",
+   "given": "33",
+   "correct": true,
+   "hint": false,
+   "seconds": 25.8
+  },
+  {
+   "type": "# + ? = #",
+   "n": 5,
+   "prompt": "36 + ? = 69",
+   "answer": "33",
+   "given": "33",
+   "correct": true,
+   "hint": false,
+   "seconds": 33.7
+  },
+  {
+   "type": "# + # = ?",
+   "n": 6,
+   "prompt": "25 + 10 = ?",
+   "answer": "35",
+   "given": "35",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.6
+  },
+  {
+   "type": "# − # = ?",
+   "n": 7,
+   "prompt": "21 − 3 = ?",
+   "answer": "18",
+   "given": "18",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.7
+  },
+  {
+   "type": "# + # + # = ?",
+   "n": 8,
+   "prompt": "20 + 12 + 7 = ?",
+   "answer": "39",
+   "given": "39",
+   "correct": true,
+   "hint": false,
+   "seconds": 27.1
+  },
+  {
+   "type": "# − # = ?",
+   "n": 9,
+   "prompt": "67 − 10 = ?",
+   "answer": "57",
+   "given": "57",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.3
+  },
+  {
+   "type": "Is this true or false?# + # = # + #",
+   "n": 10,
+   "prompt": "Is this true or false?28 + 12 = 31 + 10",
+   "answer": "False",
+   "given": "False",
+   "correct": true,
+   "hint": false,
+   "seconds": 98.7
+  }
+ ],
+ "mode": "hard"
+}
