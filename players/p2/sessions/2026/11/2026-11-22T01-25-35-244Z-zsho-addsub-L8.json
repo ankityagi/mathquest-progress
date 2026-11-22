@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-22T01-25-35-244Z-zsho",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 8,
+ "levelTitle": "Story Problems",
+ "startedAt": "2026-11-22T01:23:46.720Z",
+ "endedAt": "2026-11-22T01:25:35.244Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 101,
+ "questions": [
+  {
+   "type": "Kid has # stickers. Brother has # stickers. How many more stickers does Brother have?",
+   "n": 1,
+   "prompt": "Kid has 3 stickers. Brother has 5 stickers. How many more stickers does Brother have?",
+   "answer": "2",
+   "given": "2",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.5
+  },
+  {
+   "type": "Kid had some cookies. He ate #. Now he has #. How many cookies did he have at the start?",
+   "n": 2,
+   "prompt": "Kid had some cookies. He ate 4. Now he has 6. How many cookies did he have at the start?",
+   "answer": "10",
+   "given": "8",
+   "correct": false,
+   "hint": false,
+   "seconds": 3.9
+  },
+  {
+   "type": "There are # ducks in the pond. # fly away. How many ducks are still in the pond?",
+   "n": 3,
+   "prompt": "There are 14 ducks in the pond. 7 fly away. How many ducks are still in the pond?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "type": "Kid has # toy cars. Brother gives him # more. How many cars does Kid have now?",
+   "n": 4,
+   "prompt": "Kid has 11 toy cars. Brother gives him 4 more. How many cars does Kid have now?",
+   "answer": "15",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.5
+  },
+  {
+   "type": "Kid has # toy cars. Brother gives him # more. How many cars does Kid have now?",
+   "n": 5,
+   "prompt": "Kid has 9 toy cars. Brother gives him 6 more. How many cars does Kid have now?",
+   "answer": "15",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.6
+  },
+  {
+   "type": "Kid has # stickers. Brother has # stickers. How many more stickers does Brother have?",
+   "n": 6,
+   "prompt": "Kid has 8 stickers. Brother has 16 stickers. How many more stickers does Brother have?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 30.3
+  },
+  {
+   "type": "Kid had some cookies. He ate #. Now he has #. How many cookies did he have at the start?",
+   "n": 7,
+   "prompt": "Kid had some cookies. He ate 2. Now he has 5. How many cookies did he have at the start?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.9
+  },
+  {
+   "type": "There are # ducks in the pond. # fly away. How many ducks are still in the pond?",
+   "n": 8,
+   "prompt": "There are 14 ducks in the pond. 6 fly away. How many ducks are still in the pond?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.7
+  },
+  {
+   "type": "Kid has # stickers. Brother has # stickers. How many more stickers does Brother have?",
+   "n": 9,
+   "prompt": "Kid has 6 stickers. Brother has 11 stickers. How many more stickers does Brother have?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.8
+  },
+  {
+   "type": "Kid has # toy cars. Brother gives him # more. How many cars does Kid have now?",
+   "n": 10,
+   "prompt": "Kid has 11 toy cars. Brother gives him 7 more. How many cars does Kid have now?",
+   "answer": "18",
+   "given": "18",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.5
+  }
+ ]
+}
