@@ -1,0 +1,28 @@
+{
+ "v": 1,
+ "id": "2026-11-22T01-15-49-893Z-hlpw",
+ "player": "p2",
+ "topic": "g2add",
+ "level": 3,
+ "levelTitle": "Add With Carrying",
+ "startedAt": "2026-11-22T01:15:28.845Z",
+ "endedAt": "2026-11-22T01:15:49.893Z",
+ "completed": false,
+ "correct": 0,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 15,
+ "questions": [
+  {
+   "type": "Add.",
+   "n": 1,
+   "prompt": "Add.",
+   "answer": "70",
+   "given": "7",
+   "correct": false,
+   "hint": false,
+   "seconds": 14.5
+  }
+ ]
+}
