@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-22T00-49-11-432Z-yh40",
+ "player": "p2",
+ "topic": "g2read",
+ "level": 10,
+ "levelTitle": "Boss Level",
+ "startedAt": "2026-11-22T00:48:11.519Z",
+ "endedAt": "2026-11-22T00:49:11.432Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 53,
+ "questions": [
+  {
+   "type": "Which sound does it start with?",
+   "n": 1,
+   "prompt": "Which sound does it start with?",
+   "answer": "th",
+   "given": "th",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "type": "Which word has _ magic _?",
+   "n": 2,
+   "prompt": "Which word has a magic e?",
+   "answer": "hide",
+   "given": "hide",
+   "correct": true,
+   "hint": false,
+   "seconds": 4
+  },
+  {
+   "type": "skate + board = ?",
+   "n": 3,
+   "prompt": "skate + board = ?",
+   "answer": "skateboard",
+   "given": "skateboard",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4
+  },
+  {
+   "type": "Which word matches the picture?",
+   "n": 4,
+   "prompt": "Which word matches the picture?",
+   "answer": "three",
+   "given": "three",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Ben has _ blue bike. Ben takes it to the park. Ben plays there with Sam.What color is the ",
+   "n": 5,
+   "prompt": "Ben has a blue bike. Ben takes it to the park. Ben plays there with Sam.What color is the bike?",
+   "answer": "blue",
+   "given": "blue",
+   "correct": true,
+   "hint": false,
+   "seconds": 11.7
+  },
+  {
+   "type": "Which word matches the picture?",
+   "n": 6,
+   "prompt": "Which word matches the picture?",
+   "answer": "star",
+   "given": "star",
+   "correct": true,
+   "hint": false,
+   "seconds": 2
+  },
+  {
+   "type": "Which sound does it end with?",
+   "n": 7,
+   "prompt": "Which sound does it end with?",
+   "answer": "ch",
+   "given": "ch",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.3
+  },
+  {
+   "type": "Which word matches the picture?",
+   "n": 8,
+   "prompt": "Which word matches the picture?",
+   "answer": "football",
+   "given": "football",
+   "correct": true,
+   "hint": false,
+   "seconds": 3
+  },
+  {
+   "type": "Which sentence makes sense?",
+   "n": 9,
+   "prompt": "Which sentence makes sense?",
+   "answer": "Owls hoot at night.",
+   "given": "Owls hoot at night.",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.1
+  },
+  {
+   "type": "First Sam gets _ cup. Next Sam pours some milk.What happens next?",
+   "n": 10,
+   "prompt": "First Sam gets a cup. Next Sam pours some milk.What happens next?",
+   "answer": "drinks the milk",
+   "given": "drinks the milk",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.4
+  }
+ ]
+}
