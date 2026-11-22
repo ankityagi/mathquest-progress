@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-22T01-06-21-390Z-i6sn",
+ "player": "p1",
+ "topic": "multiply",
+ "level": 5,
+ "levelTitle": "2-Digit × 2-Digit",
+ "startedAt": "2026-11-22T01:01:40.492Z",
+ "endedAt": "2026-11-22T01:06:21.390Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 1,
+ "seconds": 267,
+ "questions": [
+  {
+   "n": 1,
+   "type": "A rectangular field is # m long and # m wide. What is its area?",
+   "prompt": "A rectangular field is 21 m long and 39 m wide. What is its area?",
+   "answer": "819 sq m",
+   "given": "819",
+   "correct": true,
+   "hint": true,
+   "seconds": 45.6
+  },
+  {
+   "n": 2,
+   "type": "# × # = ?",
+   "prompt": "56 × 72 = ?",
+   "answer": "4,032",
+   "given": "4032",
+   "correct": true,
+   "hint": false,
+   "seconds": 21.3
+  },
+  {
+   "n": 3,
+   "type": "A theatre has # rows with # seats in each row. How many seats?",
+   "prompt": "A theatre has 32 rows with 35 seats in each row. How many seats?",
+   "answer": "1,120 seats",
+   "given": "1120",
+   "correct": true,
+   "hint": false,
+   "seconds": 37.3
+  },
+  {
+   "n": 4,
+   "type": "A rectangular field is # m long and # m wide. What is its area?",
+   "prompt": "A rectangular field is 24 m long and 13 m wide. What is its area?",
+   "answer": "312 sq m",
+   "given": "312",
+   "correct": true,
+   "hint": false,
+   "seconds": 31.2
+  },
+  {
+   "n": 5,
+   "type": "A theatre has # rows with # seats in each row. How many seats?",
+   "prompt": "A theatre has 31 rows with 43 seats in each row. How many seats?",
+   "answer": "1,333 seats",
+   "given": "1333",
+   "correct": true,
+   "hint": false,
+   "seconds": 19.1
+  },
+  {
+   "n": 6,
+   "type": "# × # = ?",
+   "prompt": "57 × 26 = ?",
+   "answer": "1,482",
+   "given": "2052",
+   "correct": false,
+   "hint": false,
+   "seconds": 31.8
+  },
+  {
+   "n": 7,
+   "type": "A rectangular field is # m long and # m wide. What is its area?",
+   "prompt": "A rectangular field is 22 m long and 14 m wide. What is its area?",
+   "answer": "308 sq m",
+   "given": "308",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.1
+  },
+  {
+   "n": 8,
+   "type": "A theatre has # rows with # seats in each row. How many seats?",
+   "prompt": "A theatre has 15 rows with 16 seats in each row. How many seats?",
+   "answer": "240 seats",
+   "given": "240",
+   "correct": true,
+   "hint": false,
+   "seconds": 18
+  },
+  {
+   "n": 9,
+   "type": "# × # = ?",
+   "prompt": "63 × 43 = ?",
+   "answer": "2,709",
+   "given": "2709",
+   "correct": true,
+   "hint": false,
+   "seconds": 25.6
+  },
+  {
+   "n": 10,
+   "type": "A rectangular field is # m long and # m wide. What is its area?",
+   "prompt": "A rectangular field is 27 m long and 34 m wide. What is its area?",
+   "answer": "918 sq m",
+   "given": "918",
+   "correct": true,
+   "hint": false,
+   "seconds": 24.4
+  }
+ ]
+}
