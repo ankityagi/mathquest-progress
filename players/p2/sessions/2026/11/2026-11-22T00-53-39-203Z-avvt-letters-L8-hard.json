@@ -1,0 +1,119 @@
+{
+ "v": 1,
+ "id": "2026-11-22T00-53-39-203Z-avvt",
+ "player": "p2",
+ "topic": "letters",
+ "level": 8,
+ "levelTitle": "ABC Order (Hard)",
+ "startedAt": "2026-11-22T00:51:35.532Z",
+ "endedAt": "2026-11-22T00:53:39.203Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 116,
+ "questions": [
+  {
+   "type": "Which word comes first in ABC order?",
+   "n": 1,
+   "prompt": "Which word comes first in ABC order?",
+   "answer": "bat",
+   "given": "dog",
+   "correct": false,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "type": "_ ? ? _",
+   "n": 2,
+   "prompt": "e ? ? h",
+   "answer": "f g",
+   "given": "f g",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.4
+  },
+  {
+   "type": "_ ? ? _",
+   "n": 3,
+   "prompt": "p ? ? s",
+   "answer": "q r",
+   "given": "q r",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "type": "Which word comes first in ABC order?",
+   "n": 4,
+   "prompt": "Which word comes first in ABC order?",
+   "answer": "bat",
+   "given": "bat",
+   "correct": true,
+   "hint": false,
+   "seconds": 7
+  },
+  {
+   "type": "Which word comes first in ABC order?",
+   "n": 5,
+   "prompt": "Which word comes first in ABC order?",
+   "answer": "bat",
+   "given": "bat",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9
+  },
+  {
+   "type": "_ ? ? _",
+   "n": 6,
+   "prompt": "h ? ? k",
+   "answer": "i j",
+   "given": "i j",
+   "correct": true,
+   "hint": false,
+   "seconds": 9.2
+  },
+  {
+   "type": "Which word comes first in ABC order?",
+   "n": 7,
+   "prompt": "Which word comes first in ABC order?",
+   "answer": "fox",
+   "given": "fox",
+   "correct": true,
+   "hint": false,
+   "seconds": 31.6
+  },
+  {
+   "type": "_ ? ? _",
+   "n": 8,
+   "prompt": "d ? ? g",
+   "answer": "e f",
+   "given": "e f",
+   "correct": true,
+   "hint": false,
+   "seconds": 14.8
+  },
+  {
+   "type": "Which word comes first in ABC order?",
+   "n": 9,
+   "prompt": "Which word comes first in ABC order?",
+   "answer": "dog",
+   "given": "dog",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "type": "_ ? ? _",
+   "n": 10,
+   "prompt": "f ? ? i",
+   "answer": "g h",
+   "given": "g h",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.9
+  }
+ ],
+ "mode": "hard"
+}
