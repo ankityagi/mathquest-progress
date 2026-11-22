@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "id": "2026-11-22T00-48-07-744Z-m17r",
+ "player": "p2",
+ "topic": "g2read",
+ "level": 10,
+ "levelTitle": "Boss Level",
+ "startedAt": "2026-11-22T00:47:45.602Z",
+ "endedAt": "2026-11-22T00:48:07.744Z",
+ "completed": false,
+ "correct": 2,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 18,
+ "questions": [
+  {
+   "type": "The monkey lives in _ tree. It likes to eat bananas.What does the monkey like to eat?",
+   "n": 1,
+   "prompt": "The monkey lives in a tree. It likes to eat bananas.What does the monkey like to eat?",
+   "answer": "bananas",
+   "given": "bananas",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.4
+  },
+  {
+   "type": "Which sentence makes sense?",
+   "n": 2,
+   "prompt": "Which sentence makes sense?",
+   "answer": "We wear a coat when it is cold.",
+   "given": "We wear a coat when it is cold.",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.3
+  },
+  {
+   "type": "Which word matches the picture?",
+   "n": 3,
+   "prompt": "Which word matches the picture?",
+   "answer": "broom",
+   "given": "droom",
+   "correct": false,
+   "hint": false,
+   "seconds": 2.1
+  }
+ ]
+}
