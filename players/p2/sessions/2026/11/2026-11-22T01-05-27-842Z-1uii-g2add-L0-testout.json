@@ -1,0 +1,83 @@
+{
+ "v": 1,
+ "id": "2026-11-22T01-05-27-842Z-1uii",
+ "player": "p2",
+ "topic": "g2add",
+ "level": 0,
+ "levelTitle": "Test out",
+ "startedAt": "2026-11-22T01:03:56.925Z",
+ "endedAt": "2026-11-22T01:05:27.842Z",
+ "completed": true,
+ "correct": 4,
+ "total": 18,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 85,
+ "questions": [
+  {
+   "type": "# + # = ?",
+   "n": 1,
+   "prompt": "30 + 20 = ?",
+   "answer": "50",
+   "given": "50",
+   "correct": true,
+   "hint": false,
+   "seconds": 7.6,
+   "topic": "g2add",
+   "level": 1
+  },
+  {
+   "type": "# + ? = #",
+   "n": 2,
+   "prompt": "50 + ? = 90",
+   "answer": "40",
+   "given": "40",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.2,
+   "topic": "g2add",
+   "level": 1
+  },
+  {
+   "type": "Ava has # marbles and finds # more. How many marbles now?",
+   "n": 3,
+   "prompt": "Ava has 55 marbles and finds 12 more. How many marbles now?",
+   "answer": "67",
+   "given": "67",
+   "correct": true,
+   "hint": false,
+   "seconds": 22.6,
+   "topic": "g2add",
+   "level": 2
+  },
+  {
+   "type": "Add.",
+   "n": 4,
+   "prompt": "Add.",
+   "answer": "86",
+   "given": "86",
+   "correct": true,
+   "hint": false,
+   "seconds": 29.4,
+   "topic": "g2add",
+   "level": 2
+  },
+  {
+   "type": "Add.",
+   "n": 5,
+   "prompt": "Add.",
+   "answer": "60",
+   "given": "50",
+   "correct": false,
+   "hint": false,
+   "seconds": 19.7,
+   "topic": "g2add",
+   "level": 3
+  }
+ ],
+ "mode": "testout",
+ "skipped": [
+  1,
+  2
+ ]
+}
