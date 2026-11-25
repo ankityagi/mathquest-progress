@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-25T20-49-37-060Z-h1h4",
+ "player": "p1",
+ "topic": "measurement",
+ "level": 2,
+ "levelTitle": "Fence or Floor?",
+ "startedAt": "2026-11-25T20:44:53.031Z",
+ "endedAt": "2026-11-25T20:49:37.060Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 273,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Ribbon goes all around the edge of a photo that is # cm by # cm. How much ribbon is needed",
+   "prompt": "Ribbon goes all around the edge of a photo that is 34 cm by 14 cm. How much ribbon is needed?",
+   "answer": "96 cm",
+   "given": "96",
+   "correct": true,
+   "hint": false,
+   "seconds": 30.3
+  },
+  {
+   "n": 2,
+   "type": "A square playground has sides that are # m long. Viraj jogs around it once. How far did he",
+   "prompt": "A square playground has sides that are 14 m long. Viraj jogs around it once. How far did he jog?",
+   "answer": "56 m",
+   "given": "56",
+   "correct": true,
+   "hint": false,
+   "seconds": 68.6
+  },
+  {
+   "n": 3,
+   "type": "New carpet will cover a bedroom floor that is # ft by # ft. How many square feet of carpet",
+   "prompt": "New carpet will cover a bedroom floor that is 11 ft by 11 ft. How many square feet of carpet are needed?",
+   "answer": "121 sq ft",
+   "given": "121",
+   "correct": true,
+   "hint": false,
+   "seconds": 32.1
+  },
+  {
+   "n": 4,
+   "type": "Do you need area or perimeter for sewing lace along the edge of a tablecloth?",
+   "prompt": "Do you need area or perimeter for sewing lace along the edge of a tablecloth?",
+   "answer": "Perimeter",
+   "given": "Perimeter",
+   "correct": true,
+   "hint": false,
+   "seconds": 6.7
+  },
+  {
+   "n": 5,
+   "type": "Viraj is putting a fence around a rectangular dog run that is # ft long and # ft wide. How",
+   "prompt": "Viraj is putting a fence around a rectangular dog run that is 21 ft long and 15 ft wide. How many feet of fence does he need?",
+   "answer": "72 ft",
+   "given": "72",
+   "correct": true,
+   "hint": false,
+   "seconds": 35.9
+  },
+  {
+   "n": 6,
+   "type": "A square playground has sides that are # m long. Viraj jogs around it once. How far did he",
+   "prompt": "A square playground has sides that are 17 m long. Viraj jogs around it once. How far did he jog?",
+   "answer": "68 m",
+   "given": "68\\",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.5
+  },
+  {
+   "n": 7,
+   "type": "Viraj is putting a fence around a rectangular dog run that is # ft long and # ft wide. How",
+   "prompt": "Viraj is putting a fence around a rectangular dog run that is 18 ft long and 19 ft wide. How many feet of fence does he need?",
+   "answer": "74 ft",
+   "given": "74",
+   "correct": true,
+   "hint": false,
+   "seconds": 42.4
+  },
+  {
+   "n": 8,
+   "type": "Do you need area or perimeter for tiling a kitchen floor?",
+   "prompt": "Do you need area or perimeter for tiling a kitchen floor?",
+   "answer": "Area",
+   "given": "Area",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.4
+  },
+  {
+   "n": 9,
+   "type": "New carpet will cover a bedroom floor that is # ft by # ft. How many square feet of carpet",
+   "prompt": "New carpet will cover a bedroom floor that is 17 ft by 10 ft. How many square feet of carpet are needed?",
+   "answer": "170 sq ft",
+   "given": "170",
+   "correct": true,
+   "hint": false,
+   "seconds": 8.6
+  },
+  {
+   "n": 10,
+   "type": "Ribbon goes all around the edge of a photo that is # cm by # cm. How much ribbon is needed",
+   "prompt": "Ribbon goes all around the edge of a photo that is 35 cm by 18 cm. How much ribbon is needed?",
+   "answer": "106 cm",
+   "given": "106",
+   "correct": true,
+   "hint": false,
+   "seconds": 26.6
+  }
+ ]
+}
