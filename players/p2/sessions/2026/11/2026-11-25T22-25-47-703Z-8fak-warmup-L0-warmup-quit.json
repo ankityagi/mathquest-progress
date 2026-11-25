@@ -1,0 +1,58 @@
+{
+ "v": 1,
+ "id": "2026-11-25T22-25-47-703Z-8fak",
+ "player": "p2",
+ "topic": "warmup",
+ "level": 0,
+ "levelTitle": "Warm-up",
+ "startedAt": "2026-11-25T22:25:01.897Z",
+ "endedAt": "2026-11-25T22:25:47.703Z",
+ "completed": false,
+ "correct": 1,
+ "total": 6,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 32,
+ "questions": [
+  {
+   "type": "What digit is in the ones place of #?",
+   "n": 1,
+   "prompt": "What digit is in the ones place of 739?",
+   "answer": "9",
+   "given": "39",
+   "correct": false,
+   "hint": false,
+   "seconds": 14,
+   "fast": false,
+   "topic": "g2num",
+   "level": 1
+  },
+  {
+   "type": "# hundreds, # tens and # ones make what number?",
+   "n": 2,
+   "prompt": "4 hundreds, 2 tens and 1 ones make what number?",
+   "answer": "421",
+   "given": "421",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.2,
+   "fast": true,
+   "topic": "g2num",
+   "level": 1
+  },
+  {
+   "type": "What digit is in the hundreds place of #?",
+   "n": 3,
+   "prompt": "What digit is in the hundreds place of 491?",
+   "answer": "4",
+   "given": "1",
+   "correct": false,
+   "hint": false,
+   "seconds": 5.7,
+   "fast": false,
+   "topic": "g2num",
+   "level": 1
+  }
+ ],
+ "mode": "warmup"
+}
