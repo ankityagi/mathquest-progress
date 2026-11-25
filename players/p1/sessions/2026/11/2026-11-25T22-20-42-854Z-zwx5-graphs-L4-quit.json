@@ -1,0 +1,28 @@
+{
+ "v": 1,
+ "id": "2026-11-25T22-20-42-854Z-zwx5",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 4,
+ "levelTitle": "Data Tables",
+ "startedAt": "2026-11-25T22:20:17.150Z",
+ "endedAt": "2026-11-25T22:20:42.854Z",
+ "completed": false,
+ "correct": 0,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 24,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Cans collected for the food drive:ClassCans #A# B# C# D# How many more cans did the top cl",
+   "prompt": "Cans collected for the food drive:ClassCans 4A142 4B162 4C184 4D115 How many more cans did the top class collect than the bottom class?",
+   "answer": "69 cans",
+   "given": "27",
+   "correct": false,
+   "hint": false,
+   "seconds": 24
+  }
+ ]
+}
