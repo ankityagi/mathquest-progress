@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-25T22-13-44-482Z-8o89",
+ "player": "p1",
+ "topic": "time-money",
+ "level": 2,
+ "levelTitle": "How Long?",
+ "startedAt": "2026-11-25T22:08:20.952Z",
+ "endedAt": "2026-11-25T22:13:44.482Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 317,
+ "questions": [
+  {
+   "n": 1,
+   "type": "Soccer practice starts at #:# PM and ends at #:# PM. How many minutes long is it?",
+   "prompt": "Soccer practice starts at 12:45 PM and ends at 1:45 PM. How many minutes long is it?",
+   "answer": "60 min",
+   "given": "60",
+   "correct": true,
+   "hint": false,
+   "seconds": 9
+  },
+  {
+   "n": 2,
+   "type": "Viraj started reading at #:# PM and stopped at #:# PM. How long did he read, in minutes?",
+   "prompt": "Viraj started reading at 2:00 PM and stopped at 4:00 PM. How long did he read, in minutes?",
+   "answer": "120 min",
+   "given": "120",
+   "correct": true,
+   "hint": false,
+   "seconds": 10.2
+  },
+  {
+   "n": 3,
+   "type": "A road trip leaves at #:# AM and arrives at #:# PM. How many minutes was the trip?",
+   "prompt": "A road trip leaves at 9:15 AM and arrives at 12:25 PM. How many minutes was the trip?",
+   "answer": "190 min",
+   "given": "190",
+   "correct": true,
+   "hint": false,
+   "seconds": 30.5
+  },
+  {
+   "n": 4,
+   "type": "A road trip leaves at #:# AM and arrives at #:# PM. How many minutes was the trip?",
+   "prompt": "A road trip leaves at 9:35 AM and arrives at 1:30 PM. How many minutes was the trip?",
+   "answer": "235 min",
+   "given": "235",
+   "correct": true,
+   "hint": false,
+   "seconds": 28.7
+  },
+  {
+   "n": 5,
+   "type": "Viraj started reading at #:# PM and stopped at #:# PM. How long did he read, in minutes?",
+   "prompt": "Viraj started reading at 3:45 PM and stopped at 4:55 PM. How long did he read, in minutes?",
+   "answer": "70 min",
+   "given": "70",
+   "correct": true,
+   "hint": false,
+   "seconds": 27.4
+  },
+  {
+   "n": 6,
+   "type": "Soccer practice starts at #:# AM and ends at #:# AM. How many minutes long is it?",
+   "prompt": "Soccer practice starts at 9:05 AM and ends at 10:15 AM. How many minutes long is it?",
+   "answer": "70 min",
+   "given": "70",
+   "correct": true,
+   "hint": false,
+   "seconds": 27
+  },
+  {
+   "n": 7,
+   "type": "Viraj started reading at #:# PM and stopped at #:# PM. How long did he read, in minutes?",
+   "prompt": "Viraj started reading at 1:40 PM and stopped at 3:10 PM. How long did he read, in minutes?",
+   "answer": "90 min",
+   "given": "160",
+   "correct": false,
+   "hint": false,
+   "seconds": 54.9
+  },
+  {
+   "n": 8,
+   "type": "A road trip leaves at #:# AM and arrives at #:# AM. How many minutes was the trip?",
+   "prompt": "A road trip leaves at 9:05 AM and arrives at 11:20 AM. How many minutes was the trip?",
+   "answer": "135 min",
+   "given": "135",
+   "correct": true,
+   "hint": false,
+   "seconds": 34.9
+  },
+  {
+   "n": 9,
+   "type": "Soccer practice starts at #:# AM and ends at #:# AM. How many minutes long is it?",
+   "prompt": "Soccer practice starts at 10:25 AM and ends at 11:50 AM. How many minutes long is it?",
+   "answer": "85 min",
+   "given": "85",
+   "correct": true,
+   "hint": false,
+   "seconds": 24.6
+  },
+  {
+   "n": 10,
+   "type": "Viraj started reading at #:# PM and stopped at #:# PM. How long did he read, in minutes?",
+   "prompt": "Viraj started reading at 4:25 PM and stopped at 5:40 PM. How long did he read, in minutes?",
+   "answer": "75 min",
+   "given": "75",
+   "correct": true,
+   "hint": false,
+   "seconds": 69.4
+  }
+ ]
+}
