@@ -1,0 +1,58 @@
+{
+ "v": 1,
+ "id": "2026-11-25T22-22-47-595Z-1mh9",
+ "player": "p1",
+ "topic": "graphs",
+ "level": 1,
+ "levelTitle": "Read the Bars",
+ "startedAt": "2026-11-25T22:22:23.794Z",
+ "endedAt": "2026-11-25T22:22:47.595Z",
+ "completed": false,
+ "correct": 3,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 21,
+ "questions": [
+  {
+   "n": 1,
+   "type": "How many books for Wed?",
+   "prompt": "How many books for Wed?",
+   "answer": "4 books",
+   "given": "4",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.8
+  },
+  {
+   "n": 2,
+   "type": "Which bar is the tallest?",
+   "prompt": "Which bar is the tallest?",
+   "answer": "Swim",
+   "given": "Swim",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.1
+  },
+  {
+   "n": 3,
+   "type": "How many votes for Dog and Fish together?",
+   "prompt": "How many votes for Dog and Fish together?",
+   "answer": "30 votes",
+   "given": "30",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.8
+  },
+  {
+   "n": 4,
+   "type": "How many votes for Cat and Fish together?",
+   "prompt": "How many votes for Cat and Fish together?",
+   "answer": "50 votes",
+   "given": "45",
+   "correct": false,
+   "hint": false,
+   "seconds": 7.2
+  }
+ ]
+}
