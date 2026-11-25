@@ -1,0 +1,68 @@
+{
+ "v": 1,
+ "id": "2026-11-25T21-03-32-276Z-pljl",
+ "player": "p1",
+ "topic": "measurement",
+ "level": 3,
+ "levelTitle": "Missing Side",
+ "startedAt": "2026-11-25T21:00:13.987Z",
+ "endedAt": "2026-11-25T21:03:32.276Z",
+ "completed": false,
+ "correct": 3,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 194,
+ "questions": [
+  {
+   "n": 1,
+   "type": "A square has an area of # sq ft. What is its perimeter?",
+   "prompt": "A square has an area of 81 sq ft. What is its perimeter?",
+   "answer": "36 ft",
+   "given": "36",
+   "correct": true,
+   "hint": false,
+   "seconds": 62
+  },
+  {
+   "n": 2,
+   "type": "A square has a perimeter of # in. What is its area?",
+   "prompt": "A square has a perimeter of 44 in. What is its area?",
+   "answer": "121 sq in",
+   "given": "121",
+   "correct": true,
+   "hint": false,
+   "seconds": 13.5
+  },
+  {
+   "n": 3,
+   "type": "A rectangle is # times as long as it is wide. The width is # cm. What is its area?",
+   "prompt": "A rectangle is 3 times as long as it is wide. The width is 6 cm. What is its area?",
+   "answer": "108 sq cm",
+   "given": "108",
+   "correct": true,
+   "hint": false,
+   "seconds": 23.7
+  },
+  {
+   "n": 4,
+   "type": "This rectangle has a perimeter of # m. Find the missing side.",
+   "prompt": "This rectangle has a perimeter of 40 m. Find the missing side.",
+   "answer": "12 m",
+   "given": "24",
+   "correct": false,
+   "hint": false,
+   "seconds": 48.5
+  },
+  {
+   "n": 5,
+   "type": "This rectangle has an area of # sq cm. Find the missing side.",
+   "prompt": "This rectangle has an area of 130 sq cm. Find the missing side.",
+   "answer": "13 cm",
+   "given": "30",
+   "correct": false,
+   "hint": false,
+   "seconds": 46.3
+  }
+ ]
+}
