@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-25T21-57-06-975Z-gtp8",
+ "player": "p1",
+ "topic": "time-money",
+ "level": 1,
+ "levelTitle": "Clock Math",
+ "startedAt": "2026-11-25T21:47:18.353Z",
+ "endedAt": "2026-11-25T21:57:06.975Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 584,
+ "questions": [
+  {
+   "n": 1,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 195 minutes long. That is 3 hours and how many minutes?",
+   "answer": "15 min",
+   "given": "15",
+   "correct": true,
+   "hint": false,
+   "seconds": 104.6
+  },
+  {
+   "n": 2,
+   "type": "How many hours are in # days?",
+   "prompt": "How many hours are in 4 days?",
+   "answer": "96 h",
+   "given": "96",
+   "correct": true,
+   "hint": false,
+   "seconds": 27.1
+  },
+  {
+   "n": 3,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "7 hours 27 minutes is how many minutes?",
+   "answer": "447 min",
+   "given": "447",
+   "correct": true,
+   "hint": false,
+   "seconds": 103.8
+  },
+  {
+   "n": 4,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 3 min 38 s long. How many seconds is that?",
+   "answer": "218 s",
+   "given": "218",
+   "correct": true,
+   "hint": false,
+   "seconds": 51
+  },
+  {
+   "n": 5,
+   "type": "A movie is # minutes long. That is # hours and how many minutes?",
+   "prompt": "A movie is 270 minutes long. That is 4 hours and how many minutes?",
+   "answer": "30 min",
+   "given": "30",
+   "correct": true,
+   "hint": false,
+   "seconds": 134.1
+  },
+  {
+   "n": 6,
+   "type": "How many hours are in # days?",
+   "prompt": "How many hours are in 6 days?",
+   "answer": "144 h",
+   "given": "144",
+   "correct": true,
+   "hint": false,
+   "seconds": 45
+  },
+  {
+   "n": 7,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "6 hours 42 minutes is how many minutes?",
+   "answer": "402 min",
+   "given": "402",
+   "correct": true,
+   "hint": false,
+   "seconds": 22.4
+  },
+  {
+   "n": 8,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 4 min 54 s long. How many seconds is that?",
+   "answer": "294 s",
+   "given": "294",
+   "correct": true,
+   "hint": false,
+   "seconds": 31.2
+  },
+  {
+   "n": 9,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 6 min 53 s long. How many seconds is that?",
+   "answer": "413 s",
+   "given": "413",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.4
+  },
+  {
+   "n": 10,
+   "type": "How many hours are in # days?",
+   "prompt": "How many hours are in 5 days?",
+   "answer": "120 h",
+   "given": "120",
+   "correct": true,
+   "hint": false,
+   "seconds": 52.2
+  }
+ ]
+}
