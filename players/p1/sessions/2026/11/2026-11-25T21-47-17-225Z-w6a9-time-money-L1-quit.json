@@ -1,0 +1,38 @@
+{
+ "v": 1,
+ "id": "2026-11-25T21-47-17-225Z-w6a9",
+ "player": "p1",
+ "topic": "time-money",
+ "level": 1,
+ "levelTitle": "Clock Math",
+ "startedAt": "2026-11-25T21:42:05.799Z",
+ "endedAt": "2026-11-25T21:47:17.225Z",
+ "completed": false,
+ "correct": 0,
+ "total": 10,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 26,
+ "questions": [
+  {
+   "n": 1,
+   "type": "# hours # minutes is how many minutes?",
+   "prompt": "3 hours 6 minutes is how many minutes?",
+   "answer": "186 min",
+   "given": "183",
+   "correct": false,
+   "hint": false,
+   "seconds": 14.8
+  },
+  {
+   "n": 2,
+   "type": "A song is # min # s long. How many seconds is that?",
+   "prompt": "A song is 10 min 43 s long. How many seconds is that?",
+   "answer": "643 s",
+   "given": "103",
+   "correct": false,
+   "hint": false,
+   "seconds": 11.3
+  }
+ ]
+}
