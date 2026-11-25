@@ -1,0 +1,128 @@
+{
+ "v": 1,
+ "id": "2026-11-25T23-06-38-952Z-41e7",
+ "player": "p2",
+ "topic": "addsub",
+ "level": 1,
+ "levelTitle": "Count and Add",
+ "startedAt": "2026-11-25T23:05:55.690Z",
+ "endedAt": "2026-11-25T23:06:38.952Z",
+ "completed": true,
+ "correct": 9,
+ "total": 10,
+ "stars": 2,
+ "hints": 0,
+ "seconds": 37,
+ "questions": [
+  {
+   "type": "Which number sentence matches the pictures?",
+   "n": 1,
+   "prompt": "Which number sentence matches the pictures?",
+   "answer": "4 + 4",
+   "given": "4 + 4",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.4,
+   "fast": true
+  },
+  {
+   "type": "How many balloons in all?",
+   "n": 2,
+   "prompt": "How many balloons in all?",
+   "answer": "6",
+   "given": "6",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.1,
+   "fast": true
+  },
+  {
+   "type": "Kid has # cars. He gets # more. How many now?",
+   "n": 3,
+   "prompt": "Kid has 5 cars. He gets 4 more. How many now?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.7,
+   "fast": true
+  },
+  {
+   "type": "Kid has # stars. He gets # more. How many now?",
+   "n": 4,
+   "prompt": "Kid has 6 stars. He gets 3 more. How many now?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 3.2,
+   "fast": true
+  },
+  {
+   "type": "How many balls in all?",
+   "n": 5,
+   "prompt": "How many balls in all?",
+   "answer": "7",
+   "given": "7",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.4,
+   "fast": true
+  },
+  {
+   "type": "Which number sentence matches the pictures?",
+   "n": 6,
+   "prompt": "Which number sentence matches the pictures?",
+   "answer": "4 + 3",
+   "given": "4 + 3",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.8,
+   "fast": true
+  },
+  {
+   "type": "Kid has # apples. He gets # more. How many now?",
+   "n": 7,
+   "prompt": "Kid has 5 apples. He gets 4 more. How many now?",
+   "answer": "9",
+   "given": "9",
+   "correct": true,
+   "hint": false,
+   "seconds": 2.9,
+   "fast": true
+  },
+  {
+   "type": "How many strawberries in all?",
+   "n": 8,
+   "prompt": "How many strawberries in all?",
+   "answer": "8",
+   "given": "8",
+   "correct": true,
+   "hint": false,
+   "seconds": 4.9,
+   "fast": true
+  },
+  {
+   "type": "Which number sentence matches the pictures?",
+   "n": 9,
+   "prompt": "Which number sentence matches the pictures?",
+   "answer": "2 + 5",
+   "given": "2 + 6",
+   "correct": false,
+   "hint": false,
+   "seconds": 6.2,
+   "fast": false
+  },
+  {
+   "type": "How many ducks in all?",
+   "n": 10,
+   "prompt": "How many ducks in all?",
+   "answer": "5",
+   "given": "5",
+   "correct": true,
+   "hint": false,
+   "seconds": 5.3,
+   "fast": true
+  }
+ ]
+}
