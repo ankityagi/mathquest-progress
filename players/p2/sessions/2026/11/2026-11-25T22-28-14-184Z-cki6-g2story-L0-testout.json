@@ -1,0 +1,59 @@
+{
+ "v": 1,
+ "id": "2026-11-25T22-28-14-184Z-cki6",
+ "player": "p2",
+ "topic": "g2story",
+ "level": 0,
+ "levelTitle": "Test out",
+ "startedAt": "2026-11-25T22:27:11.858Z",
+ "endedAt": "2026-11-25T22:28:14.184Z",
+ "completed": true,
+ "correct": 2,
+ "total": 36,
+ "stars": 0,
+ "hints": 0,
+ "seconds": 60,
+ "questions": [
+  {
+   "type": "Penguins live where it is very cold. They have _ thick layer of fat to keep them warm. The",
+   "n": 1,
+   "prompt": "Penguins live where it is very cold. They have a thick layer of fat to keep them warm. Their feathers are packed close together, like a warm coat. Penguins cann",
+   "answer": "Fish",
+   "given": "Fish",
+   "correct": true,
+   "hint": false,
+   "seconds": 17.7,
+   "fast": true,
+   "topic": "g2story",
+   "level": 1
+  },
+  {
+   "type": "Penguins live where it is very cold. They have _ thick layer of fat to keep them warm. The",
+   "n": 2,
+   "prompt": "Penguins live where it is very cold. They have a thick layer of fat to keep them warm. Their feathers are packed close together, like a warm coat. Penguins cann",
+   "answer": "How penguins live in the cold",
+   "given": "How penguins live in the cold",
+   "correct": true,
+   "hint": false,
+   "seconds": 18.2,
+   "fast": true,
+   "topic": "g2story",
+   "level": 1
+  },
+  {
+   "type": "_ camel lives in the hot, dry desert. It can go many days without _ drink of water. Its wi",
+   "n": 3,
+   "prompt": "A camel lives in the hot, dry desert. It can go many days without a drink of water. Its wide feet help it walk on soft sand. Long eyelashes keep blowing sand ou",
+   "answer": "To walk on soft sand",
+   "given": "To climb trees",
+   "correct": false,
+   "hint": false,
+   "seconds": 23.9,
+   "fast": false,
+   "topic": "g2story",
+   "level": 1
+  }
+ ],
+ "mode": "testout",
+ "skipped": []
+}
