@@ -1,0 +1,118 @@
+{
+ "v": 1,
+ "id": "2026-11-25T20-31-37-982Z-v8lk",
+ "player": "p1",
+ "topic": "multiply",
+ "level": 6,
+ "levelTitle": "Divide It",
+ "startedAt": "2026-11-25T20:28:07.082Z",
+ "endedAt": "2026-11-25T20:31:37.982Z",
+ "completed": true,
+ "correct": 10,
+ "total": 10,
+ "stars": 3,
+ "hints": 0,
+ "seconds": 206,
+ "questions": [
+  {
+   "n": 1,
+   "type": "# stickers are shared equally among # friends. How many does each get?",
+   "prompt": "840 stickers are shared equally among 7 friends. How many does each get?",
+   "answer": "120 stickers",
+   "given": "120",
+   "correct": true,
+   "hint": false,
+   "seconds": 21.7
+  },
+  {
+   "n": 2,
+   "type": "# ÷ # = ?",
+   "prompt": "438 ÷ 6 = ?",
+   "answer": "73",
+   "given": "73",
+   "correct": true,
+   "hint": false,
+   "seconds": 29.7
+  },
+  {
+   "n": 3,
+   "type": "# ÷ # = ?",
+   "prompt": "4,080 ÷ 6 = ?",
+   "answer": "680",
+   "given": "680",
+   "correct": true,
+   "hint": false,
+   "seconds": 17
+  },
+  {
+   "n": 4,
+   "type": "? × # = #",
+   "prompt": "? × 5 = 235",
+   "answer": "47",
+   "given": "47",
+   "correct": true,
+   "hint": false,
+   "seconds": 18.1
+  },
+  {
+   "n": 5,
+   "type": "# ÷ # = ?",
+   "prompt": "1,113 ÷ 7 = ?",
+   "answer": "159",
+   "given": "159",
+   "correct": true,
+   "hint": false,
+   "seconds": 21.5
+  },
+  {
+   "n": 6,
+   "type": "? × # = #",
+   "prompt": "? × 6 = 1,434",
+   "answer": "239",
+   "given": "239",
+   "correct": true,
+   "hint": false,
+   "seconds": 26
+  },
+  {
+   "n": 7,
+   "type": "# ÷ # = ?",
+   "prompt": "7,812 ÷ 9 = ?",
+   "answer": "868",
+   "given": "868",
+   "correct": true,
+   "hint": false,
+   "seconds": 15.6
+  },
+  {
+   "n": 8,
+   "type": "# stickers are shared equally among # friends. How many does each get?",
+   "prompt": "246 stickers are shared equally among 6 friends. How many does each get?",
+   "answer": "41 stickers",
+   "given": "41",
+   "correct": true,
+   "hint": false,
+   "seconds": 22.3
+  },
+  {
+   "n": 9,
+   "type": "? × # = #",
+   "prompt": "? × 8 = 920",
+   "answer": "115",
+   "given": "115",
+   "correct": true,
+   "hint": false,
+   "seconds": 21.7
+  },
+  {
+   "n": 10,
+   "type": "# stickers are shared equally among # friends. How many does each get?",
+   "prompt": "630 stickers are shared equally among 6 friends. How many does each get?",
+   "answer": "105 stickers",
+   "given": "105",
+   "correct": true,
+   "hint": false,
+   "seconds": 12.4
+  }
+ ]
+}
